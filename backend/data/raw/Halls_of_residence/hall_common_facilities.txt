@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Hall Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALL COMMON FACILITIES
+======================
+
+1. STANDARD FACILITIES (all six halls)
+   Facility              Details
+   ------------------------------------------------------------
+   Dining hall           Seating for ~40% of residents per
+                         sitting; two sittings where needed
+   Common room           TV, newspapers, carrom/chess boards;
+                         booking via Common Room Committee
+   Reading room          Quiet study, 8 AM - 11 PM
+   Prayer room           Separate facilities for male/female
+                         residents per hall layout
+   Guest room            2 rooms per hall; family guests of
+                         residents only; BDT 300/night
+                         (Section I), booked via Hall Office
+   Laundry yard          Washing lines / machines (where
+                         installed), self-service
+   Water & power         24-hour supply; corridor lighting
+                         on motion sensors
+   Wi-Fi                 Campus Wi-Fi (Section A — ICT Cell)
+                         coverage in all halls; resident
+                         devices registered by MAC address
+
+2. SPORTS AND RECREATION
+   - Volleyball/badminton court adjacent to each hall cluster
+   - Indoor games equipment issued from the hall office
+     against student ID card
+   - Inter-hall tournaments are organized by the Office of
+     Physical Education (Section A) each Spring semester
+
+3. HEALTH AND SAFETY
+   - First-aid boxes at each hall office; duty Assistant
+     Provost is the first contact for resident medical
+     emergencies, with the Medical Centre (Section A) on
+     call
+   - Fire extinguishers per block corridor; evacuation drill
+     once per year organized with the Proctor's office
+     (Section A)
+   - Canteens inside hall compounds operate under the Mess
+     Committee license and close at 11 PM
+
+4. MAINTENANCE REQUESTS
+   Fault reports (plumbing, electrical, furniture) are lodged
+   at the hall office on the register or by phone; routine
+   repairs within 3 working days, emergency repairs same day.
+   Repeated unreported damage becomes a chargeable item at
+   clearance (hall_clearance_procedure.txt).
+
+================================================================
+END OF FILE
+================================================================

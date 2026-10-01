@@ -1,0 +1,69 @@
+DOCUMENT TYPE: Hall Procedure Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+MESS MANAGEMENT AND DINING RULES
+================================
+
+1. MESS COMMITTEE
+   Each hall has an elected Mess Committee:
+     - President: Provost (ex officio)
+     - Secretary: one elected resident
+     - Members: one representative per block + the Hall
+       Accounts Assistant (ex officio, keeps the books)
+   The Committee meets monthly to review accounts, menu, and
+   the meal rate. Minutes are posted on the hall notice board.
+
+2. MEAL RATE (synthetic standing rates)
+   - Monthly advance ( mess deposit ): BDT 3,000 at seat
+     allotment, adjusted against actuals monthly.
+   - Running monthly bill: BDT 95–120 per day depending on
+     menu cycle, billed in advance on the 25th of the
+     previous month.
+   - Guests: meals at BDT 120 per meal (breakfast BDT 50) on
+     a guest meal card purchased from the Hall Office;
+     residents may not give their meal card to others.
+   Rates are reviewed by the Mess Committee each semester;
+   changes require the Provost's approval and are posted
+   14 days in advance. Fee payment procedures: Section I.
+
+3. MEAL TIMINGS (standard)
+   Breakfast   7:30 - 9:00 AM
+   Lunch       1:00 - 2:30 PM
+   Dinner      8:00 - 9:30 PM
+   (Ramadan schedule announced separately by the Committee.)
+
+4. MEAL CARD / TOKEN RULES
+   - Meals are served against a token collected at the dining
+     hall entrance; tokens are issued per meal against the
+     monthly bill.
+   - A resident absent for 3+ consecutive days may apply for
+     rebate of board charges with the Secretary's
+     certification; rebate applies from the 4th day.
+   - Food cannot be taken out of the dining hall except for
+     documented medical need (Medical Centre note, Section A).
+
+5. KITCHEN HYGIENE AND DIETARY NEEDS
+   - The University Medical Centre (Section A) certifies
+     special dietary requirements; the mess accommodates
+     medical diets at no extra charge.
+   - Water quality is tested monthly by the Estate Office
+     (Section A — Chief Engineer); reports are posted.
+   - Food complaints go to the Mess Secretary first; unresolved
+     complaints go to the Assistant Provost (duty).
+
+6. MESS ACCOUNT AUDIT
+   Mess accounts are audited each semester by the Hall
+   Accounts Assistant and countersigned by the Provost;
+   the Treasurer's office (Section A) audits hall finances
+   annually.
+
+================================================================
+END OF FILE
+================================================================

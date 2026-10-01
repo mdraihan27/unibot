@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/proctor
+
+================================================================
+OFFICE OF THE PROCTOR
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Proctor
+   Name: Dr. Mahfuzur Rahman (SYNTHETIC)
+   Email: proctor@just.edu.bd
+   Phone (Office): +880-421-61270
+   Extension: 108 (24-hour emergency line available)
+   Office Location: Administrative Building, Ground Floor, Room 112
+   Office Hours: 24-hour emergency contact; routine office hours Sunday-Thursday 9:00 AM - 5:00 PM
+   Reports To: Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Responsible for student discipline and campus order
+  - Chairs the Proctorial Body and coordinates Assistant Proctors per Faculty
+  - Investigates disciplinary complaints, including ragging and harassment reports
+  - Coordinates with local law enforcement when necessary
+  - Oversees campus security personnel
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Disciplinary complaints
+  - Ragging/harassment reports (initial contact point)
+  - Campus safety and security incidents
+  - Lost and found (coordinated with security)
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+6. ADDITIONAL STAFF
+   - Dr. Shamim Reza — Assistant Proctor (Engineering & Tech)
+     Email: aproctor.fet@just.edu.bd  |  Phone: +880-421-61271
+   - Dr. Nasima Khatun — Assistant Proctor (Science & Business)
+     Email: aproctor.fsb@just.edu.bd  |  Phone: +880-421-61272
+   - Dr. Kamal Uddin — Assistant Proctor (Biological & Health Science)
+     Email: aproctor.fbh@just.edu.bd  |  Phone: +880-421-61273
+
+================================================================
+END OF FILE
+================================================================

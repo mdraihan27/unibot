@@ -1,0 +1,61 @@
+DOCUMENT TYPE: Research Laboratory Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://csirl.just.edu.bd/
+
+================================================================
+CENTRE FOR SOPHISTICATED INSTRUMENTATION AND RESEARCH LABORATORY (CSIRL)
+================================================================
+
+1. LEADERSHIP
+   Title: Director, CSIRL
+   Name: Prof. Dr. Khairul Bashar (SYNTHETIC)
+   Email: csirl@just.edu.bd
+   Phone: +880-421-61620
+   Office Location: CSIRL Building, Science Complex
+   Reports To: Vice-Chancellor (via Pro-Vice-Chancellor for academic
+               coordination, via Research Cell for grant matters)
+
+2. ESTABLISHMENT
+   Type: Research Laboratory
+   Established: 2017
+   Location: CSIRL Building, Science Complex
+
+3. MANDATE
+   CSIRL houses high-end scientific instrumentation shared across
+   departments for advanced research and analysis that individual
+   departments cannot cost-effectively maintain alone.
+
+4. KEY ACTIVITIES / SERVICES
+  - Provides access to shared analytical instruments (e.g., HPLC, GC-MS,
+     spectrophotometers, centrifuges — exact inventory maintained separately)
+  - Trains graduate students and faculty on instrument operation
+  - Offers paid analytical testing services to external researchers/industry
+  - Maintains calibration and maintenance schedules for shared equipment
+
+5. AFFILIATED / PRIMARY USER DEPARTMENTS
+  - Primary users: Chemistry, Biochemistry and Molecular Biology, Pharmacy,
+     Environmental Science and Technology, Chemical Engineering
+  - Open to any department's research needs on a booking basis
+
+6. HOW TO ACCESS SERVICES
+   Requests for use of facilities, instruments, or programs offered
+   here are typically routed through the requester's own Department
+   Chairman or thesis/project supervisor, who coordinates directly
+   with this unit's office. Individual students should not contact
+   this office directly without supervisor/Chairman endorsement.
+
+7. ADDITIONAL STAFF
+   - Mr. Anwarul Kabir — Senior Instrumentation Officer
+     Email: instr.csirl@just.edu.bd  |  Phone: +880-421-61621
+
+
+================================================================
+END OF FILE
+================================================================

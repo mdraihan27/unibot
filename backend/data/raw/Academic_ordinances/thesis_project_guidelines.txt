@@ -1,0 +1,69 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+THESIS AND PROJECT GUIDELINES
+=============================
+
+1. SCOPE
+   Final-year thesis/project (codes XY90–99, 4–6 credits) is
+   required in most 4-year programmes; exact credit is per the
+   approved curriculum (Section G).
+
+2. SUPERVISOR ASSIGNMENT
+   - Each student (or group, where permitted) is assigned a
+     supervisor from the department faculty (Section D rosters)
+     in the semester before the thesis semester begins.
+   - A supervisor supervises at most 8 thesis students per
+     session.
+   - Co-supervision from another department or an external
+     industry expert requires the Chairman's approval.
+
+3. STAGES AND DEADLINES (standard schedule)
+   Stage                    When (relative to semester)
+   ------------------------------------------------------------
+   Topic approval + proposal  Weeks 1–3
+   Midterm progress review    Week 8 (written progress report)
+   Pre-submission review      Week 13
+   Submission of report       End of week 15
+   Presentation + viva        Final examination period
+
+4. ASSESSMENT (100 marks, rubric-based)
+   Component                 Marks
+   ------------------------------------------------------------
+   Supervisor's evaluation   30
+   Report (external/internal
+   examiner)                 30
+   Presentation + viva voce  30
+   Midterm progress          10
+   ------------------------------------------------------------
+   A second examiner (internal, not the supervisor) and an
+   external examiner (for final-year projects) moderate the
+   report and presentation.
+
+5. INTEGRITY
+   - Plagiarism check: reports are screened with the
+     university's similarity tool; similarity above 20%
+     (excluding references and standard definitions) requires
+     revision before acceptance; above 40% is referred as
+     malpractice (examination_conduct.txt §4 applies with the
+     Proctor's committee).
+   - Data fabrication is malpractice.
+   - Group work must state each member's contribution; the
+     viva examines individual understanding.
+
+6. PUBLICATION / DISSEMINATION
+   Departments may require a presentation in the departmental
+     seminar series; best theses may be nominated for
+     university-level awards per the Research Cell's notice
+     (Section A).
+
+================================================================
+END OF FILE
+================================================================

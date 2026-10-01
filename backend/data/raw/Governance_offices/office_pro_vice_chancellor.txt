@@ -1,0 +1,55 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/pro-vc
+
+================================================================
+OFFICE OF THE PRO-VICE-CHANCELLOR
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Pro-Vice-Chancellor
+   Name: Prof. Dr. Nasreen Sultana (SYNTHETIC)
+   Email: provc@just.edu.bd
+   Phone (Office): +880-421-61210
+   Extension: 102
+   Office Location: Administrative Building, 3rd Floor, Room 305
+   Office Hours: Sunday-Thursday: 9:00 AM - 5:00 PM
+   Reports To: Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Assists the VC in academic administration and quality oversight
+  - Coordinates cross-faculty curriculum matters
+  - Oversees IQAC (Institutional Quality Assurance Cell) at policy level
+  - Deputizes for the VC in the VC's absence, per delegation
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Cross-faculty academic policy queries
+  - Curriculum harmonization requests between departments
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+6. ADDITIONAL STAFF
+   - Mr. Rezaul Karim — Personal Assistant
+     Email: pa.provc@just.edu.bd  |  Phone: +880-421-61211
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+COURSE NUMBERING SYSTEM
+=======================
+
+1. CODE FORMAT (clause 3.5)
+   A course code has the form:  SUBJ 1 2 0 1
+   where:
+   - SUBJ = two-to-four-letter subject abbreviation (CSE, EEE,
+     PHY, CHEM, MATH, HUM, ENG, BUS ...)
+   - first digit (1) = level/year of study (1–4 for 4-year
+     programmes; 1–5 for DVM)
+   - second digit (2) = the year digit convention: for
+     4-digit codes, the thousands+thousands... i.e., the code
+     1201 means Level 1, and the "2" denotes the standard
+     full-credit theory series; codes ending 0xx denote labs/
+     sessionals. In practice: X Y ZZ where XY = level series.
+   - last two digits (01) = sequence within the subject and
+     level.
+
+2. SERIES CONVENTIONS USED IN THIS DATASET
+   Code pattern   Meaning
+   ----------------------------------------------------------
+   XY01–XY49      Theory courses (lecture + midterm + final)
+   XY50–XY59      Reserved (special topics, seminar)
+   XY60–XY89      Laboratory / sessional courses
+   XY90–XY99      Thesis, project, internship, viva-voce
+   (X = level digit, Y = series digit)
+
+   Example: PHY 1101 = Physics, Level 1, theory sequence 1;
+            PHY 1102 = Physics, Level 1, paired laboratory.
+
+3. PREREQUISITE NOTATION
+   A course listing shows prerequisites as codes, e.g.:
+     CSE 2201 Data Structures — Prerequisite: CSE 1102
+   A student may not register for a course without having
+   completed (or concurrently completed, where explicitly
+   allowed) its prerequisites with a passing grade.
+
+4. REPEATED CODES
+   A course code is unique to one course. If a course is
+   renumbered, both codes appear in the catalog (Section G)
+   with the supersession note, and the Registrar issues an
+   equivalence list.
+
+5. CROSS-LISTING
+   The same course content offered under two codes in two
+   departments (e.g., MATH 2101 for CSE students and MATH
+   2103 for EEE students) is allowed; credit cannot be
+   counted twice if both are taken.
+
+================================================================
+END OF FILE
+================================================================

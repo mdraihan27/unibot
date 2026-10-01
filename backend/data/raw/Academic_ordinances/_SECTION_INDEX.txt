@@ -1,0 +1,110 @@
+================================================================
+SECTION E — ACADEMIC ORDINANCES, GRADING & EXAMINATIONS
+================================================================
+
+SECTION SCOPE
+  Section E covers the RULES OF THE ACADEMIC PROGRAMME:
+  ordinances, semester structure, credit hours, course
+  numbering, admission/registration, grading, assessment,
+  examinations, results, CGPA computation, supplementary and
+  improvement examinations, probation, leave, transfer credit,
+  thesis/internship, and degree requirements.
+
+  Earlier sections covered WHO runs the university:
+    Section A — Institutional identity & administrative offices
+    Section B — Faculties (8 faculties, deans)
+    Section C — Institutes & research centers
+    Section D — Departments (38 departments, chairmen, faculty
+                rosters, contact details)
+  This section (E) covers HOW the academic programme itself runs.
+
+================================================================
+SECTION E — FILE INDEX (20 files)
+================================================================
+
+ORDINANCE FRAMEWORK (3)
+  ordinance_overview.txt        Legal basis, amendment history,
+                                superseded versions, how to read
+                                numbered clauses
+  semester_academic_year.txt    Semester system, term lengths,
+                                breaks, academic year definition
+  credit_hour_system.txt        Definition of credit hour, contact
+                                hour, contact-week, weekly hours
+
+ACADEMIC RULES (10)
+  admission_requirements.txt    Eligibility, entry levels per
+                                faculty/programme
+  course_numbering_system.txt   Course code convention (subject.
+                                dept, level, sequence)
+  course_registration.txt       Registration, add/drop, section
+                                assignment, registration holds
+  grading_policy.txt            Letter grades, grade points,
+                                pass marks, incomplete (I) grade
+  assessment_distribution.txt   Incourse/final split, attendance
+                                marks, tutorial/class tests
+  attendance_policy.txt         75% minimum attendance rule and
+                                consequences
+  examination_conduct.txt       Final exam rules, invigilation,
+                                malpractice, penalties
+  result_publication.txt        Tabulation, moderation, result
+                                release and correction
+  cgpa_computation.txt          Formula, worked examples, credit-
+                                weighted averaging rules
+  semester_final_exam_system.txt Exam scheduling, seat plans,
+                                scripts, re-totaling
+
+PROGRESSION & EXCEPTIONS (5)
+  supplementary_exams.txt       Supplementary/improvement exam rules
+  probation_suspension_termination.txt Academic standing rules
+  leave_of_absence.txt          Semester leave, medical leave,
+                                readmission
+  transfer_credit.txt           Credit transfer from other
+                                universities, waiver rules
+  degree_requirements.txt       Total credits, thesis/internship,
+                                final clearance, award of degree
+
+CAPSTONE & PROJECT (2)
+  thesis_project_guidelines.txt Undergraduate thesis/project rules
+  internship_guidelines.txt     Industrial attachment/internship rules
+
+FILES REMAINING FOR THIS SECTION: 0 — complete for Section E as
+scoped.
+
+================================================================
+WHAT'S NOT IN THIS SECTION (comes in later sections)
+================================================================
+  - Per-department 8-semester curricula, course catalog and
+    syllabus details (Section G — course catalog)
+  - Halls of Residence, Provost offices (Section F)
+  - Certificate/document issuance procedures: transcripts,
+    certificates, testimonials (Section H)
+  - Fees, payment procedures, refund policy (Section I)
+  - Campus policies: disciplinary code, anti-ragging, sexual
+    harassment, admission policy appeals (Section J) —
+    examination malpractice PENALTIES are stated in
+    examination_conduct.txt here; the general disciplinary
+    process lives in Section J
+  - Academic calendar, class schedules, exam timetable for a
+    specific session (Section K)
+  - Postgraduate ordinances (M.Sc./M.Phil./Ph.D.) — this
+    section covers UNDERGRADUATE rules only
+
+================================================================
+SUPERSESSION NOTE (IMPORTANT FOR RAG RETRIEVAL)
+================================================================
+  JUST revised its examination system effective from the
+  2015-16 session ("II Examination — Effective from 2015-16").
+  The pre-2015-16 system is SUPERSEDED and retained in
+  archive form only. Retrieval must prefer the current system
+  whenever both are present. See ordinance_overview.txt.
+
+================================================================
+DATA GENERATION METHOD NOTE
+================================================================
+All figures, thresholds, dates, and procedural details in this
+section are synthetically generated, aligned structurally to the
+real JUST ordinance structure (numbered clauses, grade tables,
+incourse/final split) as described by the user, for RAG testing
+only. Real official ordinances should replace this content
+before any production or public-facing use.
+================================================================

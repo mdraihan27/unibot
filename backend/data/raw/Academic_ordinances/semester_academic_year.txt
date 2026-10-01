@@ -1,0 +1,68 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+SEMESTER SYSTEM AND ACADEMIC YEAR
+=================================
+
+1. DEFINITIONS
+   Semester: a fixed instructional term of the academic year.
+   Academic Year: two regular semesters (Spring and Fall)
+   plus, for most programmes, an optional Summer term.
+
+2. STRUCTURE
+   Term          Typical Months (varies per academic calendar)
+   ----------------------------------------------------------------
+   Spring        January – May     (classes ~15 weeks + exams)
+   Summer        June – July       (optional, ~8 weeks; limited
+                                  course offering)
+   Fall          August – December (classes ~15 weeks + exams)
+
+   The specific start/end dates for each session are published
+   annually in the Academic Calendar (Section K) and approved
+   by the Academic Council.
+
+3. SEMESTER COMPONENTS (per clause 3.2)
+   a. Classes: approximately 15 teaching weeks in a regular
+      semester (8 weeks in Summer).
+   b. Mid-semester break: none; continuous instruction.
+   c. Final examinations: approximately 3 weeks, scheduled
+      after classes end.
+   d. Result processing and publication: approximately 3-4
+      weeks after the last examination (see
+      result_publication.txt).
+
+4. CREDIT LOAD PER SEMESTER
+   - Normal load: 15–19 credit hours per regular semester.
+   - Overload (up to 21 credit hours, or 22 for graduating
+     seniors with Dean's permission): requires a CGPA of 3.50
+     or above and written approval of the Chairman and Dean.
+   - Underload (below 12 credit hours): only in the final
+     semester, or with a Dean-approved reduced load for
+     documented reasons (see leave_of_absence.txt).
+
+5. COURSE OFFERING SEQUENCE
+   Courses are offered in the semester(s) indicated in the
+   approved curriculum of each department (Section G). A
+   course offered in the "wrong" semester may be taken only
+   with the Chairman's written permission, and prerequisite
+   rules (see course_registration.txt) still apply.
+
+6. SUMMER TERM RULES
+   - Open to all students; intended for backlog (F-graded or
+     incomplete) courses and accelerated progress.
+   - Maximum 9 credit hours.
+   - Not all courses are offered each Summer; the offering
+     list is published by the department before registration.
+   - Fees for Summer courses are charged per credit hour
+     (Section I).
+
+================================================================
+END OF FILE
+================================================================

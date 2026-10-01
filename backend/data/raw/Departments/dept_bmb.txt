@@ -1,0 +1,80 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://bmb.just.edu.bd/
+
+================================================================
+DEPARTMENT OF BIOCHEMISTRY AND MOLECULAR BIOLOGY
+================================================================
+Faculty: Faculty of Biological Science and Technology
+
+1. CHAIRMAN
+   Name: Prof. Dr. Aminul Kader (SYNTHETIC)
+   Title: Chairman, Department of Biochemistry and Molecular Biology
+   Designation: Professor
+   Email: aminul.kader@bmb.just.edu.bd
+   Phone: +880-421-61946
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Biological Science and Technology
+
+2. DEPARTMENT OVERVIEW
+   Established: 2012
+   Degree Awarded: B.Sc. (Hons) in Biochemistry and Molecular Biology
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://bmb.just.edu.bd/
+   Department Office Email: office.bmb@just.edu.bd
+   Department Office Phone: +880-421-61946 (main line; individual
+                              faculty extensions vary)
+
+   Covers metabolic biochemistry, molecular biology techniques, and
+   enzymology. Shares lab and instrumentation access with CSIRL
+   and the Genome Center.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Ms. Tania Islam — Lecturer
+     Email: tania.islam@bmb.just.edu.bd  |  Phone: +880-421-61953
+   - Mr. Nurul Bhuiyan — Lecturer
+     Email: nurul.bhuiyan@bmb.just.edu.bd  |  Phone: +880-421-61960
+   - Prof. Dr. Sabina Rahman — Professor
+     Email: sabina.rahman@bmb.just.edu.bd  |  Phone: +880-421-61967
+   - Prof. Dr. Rezaul Reza — Professor
+     Email: rezaul.reza@bmb.just.edu.bd  |  Phone: +880-421-61974
+   - Dr. Rumana Hossain — Associate Professor
+     Email: rumana.hossain@bmb.just.edu.bd  |  Phone: +880-421-61981
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

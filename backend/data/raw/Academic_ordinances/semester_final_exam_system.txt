@@ -1,0 +1,67 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+SEMESTER FINAL EXAMINATION SYSTEM
+=================================
+
+1. AUTHORITY AND SCHEDULING
+   - Final examinations are conducted by the Office of the
+     Controller of Examinations (Section A) under rules
+     approved by the Academic Council.
+   - The examination routine (date, time, room per course) is
+     published at least 10 days before the first examination
+     and is also in the academic calendar (Section K).
+   - A course must have completed its syllabus to be
+     examined; courses behind schedule are flagged by the
+     department and the examination may be deferred by the
+     Dean with the Controller informed.
+
+2. EXAMINATION FORMAT
+   - Question papers are set by the course teacher, moderated
+     internally, and approved by an external examiner/expert
+     where the Ordinance requires external moderation (final-
+     year and capstone courses).
+   - Papers are printed and sealed by the Controller's office;
+     custody is logged.
+
+3. SEAT PLANS AND INVIGILATION
+   - Seat plans are published with the routine and posted at
+     each room door.
+   - Invigilators are appointed from faculty lists; each room
+     has at least one invigilator per 30 candidates.
+   - The Proctorial body (Section A — Office of the Proctor)
+     patrols examination blocks.
+
+4. SCRIPT MANAGEMENT
+   - Scripts are counted in the room, sealed per session, and
+     logged into the Controller's custody the same day.
+   - Scripts are retained for one academic year after result
+     publication, then disposed of per record rules.
+
+5. MAKEUP / DEFERRED EXAMINATIONS
+   - A student barred from an examination for attendance
+     (attendance_policy.txt) is NOT eligible for makeup; the
+     course is repeated.
+   - A student with an approved Incomplete (illness during the
+     exam, grading_policy.txt §2) sits the supplementary
+     examination per supplementary_exams.txt.
+
+6. CENTRAL CONTROL ROOM
+   A central control room operates during the examination
+   period for lost admit cards, seat plan disputes, and
+   emergency communications: +880-421-61300 (synthetic).
+
+7. POST-EXAMINATION
+   Marking is completed within 7 days; tabulation follows
+   result_publication.txt.
+
+================================================================
+END OF FILE
+================================================================

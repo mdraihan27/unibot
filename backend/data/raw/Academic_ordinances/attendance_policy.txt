@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ATTENDANCE POLICY
+=================
+
+1. MINIMUM ATTENDANCE (clause 6.5)
+   A student must attend at least 75% of the classes (lecture
+   and laboratory counted separately) in a course to be
+   eligible to sit the final examination of that course.
+
+2. ATTENDANCE RECORD
+   - Teachers maintain daily attendance records and enter them
+     in the student portal; students can view their running
+     percentage throughout the semester.
+   - The department publishes a provisional ineligible list
+     one week before the final examination starts.
+   - Objections must be filed with the Chairman within 3
+     working days of publication.
+
+3. CONSEQUENCES OF FALLING BELOW 75%
+   a. The student is BARRED from the final examination and
+      receives an "F" for the course (or "X" if absent without
+      cause).
+   b. The barred course must be repeated in full (registration,
+      attendance, incourse, and final) — there is no
+      attendance-only makeup.
+   c. If the barred course is a prerequisite, the student
+      cannot register for dependent courses until it is
+      cleared (see course_registration.txt §3).
+
+4. MEDICAL ABSENCES
+   Absences due to illness are excused only with a medical
+   certificate from the University Medical Centre (Section A
+   — Chief Medical Officer) filed within one week of return.
+   Excused absences still count against the 75% calculation
+   unless the Medical Centre certifies a period of bed rest,
+   in which case the 75% threshold is applied pro-rata to the
+   attended period (clause 6.5(b)).
+
+5. REPRESENTATIVE / CO-CURRICULAR DUTIES
+   Attendance credit may be granted for university-sanctioned
+   representation (sports, debate, NSS-type activities) with
+   the prior written approval of the Chairman and Proctor
+   (Section A); the approved list is circulated to teachers.
+
+6. LABORATORY ATTENDANCE
+   Lab attendance is counted separately. Missing a lab session
+   requires a makeup within two weeks arranged with the lab
+   instructor; otherwise the session counts as absent for the
+   75% computation.
+
+================================================================
+END OF FILE
+================================================================

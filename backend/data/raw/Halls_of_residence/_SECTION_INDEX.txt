@@ -1,0 +1,74 @@
+================================================================
+SECTION F — HALLS OF RESIDENCE
+================================================================
+
+SECTION SCOPE
+  Section F covers residential life: the halls of residence,
+  their administration (Provosts, Assistant Provosts, House
+  Tutors), room allocation, admission to halls, mess
+  operation, hall rules, and clearance procedures.
+
+  Section A index reference: "Halls of Residence / Provost
+  details (Section F)".
+
+================================================================
+SECTION F — FILE INDEX (13 files)
+================================================================
+
+OVERVIEW (2)
+  halls_overview.txt            Full hall list, capacity
+                                summary, campus map zones
+  hall_admission_rules.txt      Who may apply, how seats are
+                                allocated, waiting list rules
+
+HALLS (6) — one file per hall
+  hall_01_mashiur_rahman.txt    Shaheed Mashiur Rahman Hall
+                                (male, oldest hall)
+  hall_02_lalon_shah.txt        Lalon Shah Hall (male)
+  hall_03_sheikh_hasina.txt     Sheikh Hasina Hall (female)
+  hall_04_begum_khaleda_zia.txt Begum Khaleda Zia Hall
+                                (female)
+  hall_05_jasimuddin.txt        Kazi Nazrul / Jasimuddin
+                                Hall (male, postgraduate wing)
+  hall_06_new_residence.txt     New Residential Hall
+                                (co-educational blocks by floor)
+
+MESS & COMMONS (2)
+  mess_management.txt           Mess committee, meal rates,
+                                meal card rules
+  hall_common_facilities.txt    Dining, gym, common rooms,
+                                prayer rooms, guest room
+
+RULES & CLEARANCE (3)
+  hall_rules_regulations.txt    Residence rules, curfew,
+                                visitors, discipline routing
+  seat_allocation_policy.txt    Room types, single/double
+                                assignment, roommate policy
+  hall_clearance_procedure.txt  Check-out, no-dues, damage
+                                charges, Provost clearance
+
+================================================================
+WHAT'S NOT IN THIS SECTION
+================================================================
+  - Hall fees and payment: Section I (fees and payment
+    procedures) — hall fee amounts are referenced from there
+  - Disciplinary offences and the formal hearing process:
+    Section J — hall offences are REPORTED here, HEARD under
+    Section J with the Proctor's office (Section A)
+  - Guest house / visitor accommodation for outsiders:
+    handled by the Physical Education / guest house under the
+    Registrar's office (Section A) — hall guest rooms are for
+    resident students' families only
+  - Medical services: Section A (Chief Medical Officer);
+    medical leave interaction with hall residence:
+    leave_of_absence.txt (Section E)
+
+================================================================
+DATA GENERATION METHOD NOTE
+================================================================
+Hall names follow the naming pattern of the real JUST campus
+as described by the user (the real university's actual hall
+names should replace these if the user supplies them). All
+provost names, staff, phone numbers, capacities, and room
+counts are synthetically generated for RAG testing only.
+================================================================

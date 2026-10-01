@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Institute Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/clsd
+
+================================================================
+CENTRE FOR LANGUAGE AND SKILL DEVELOPMENT (CLSD)
+================================================================
+
+1. LEADERSHIP
+   Title: Director, CLSD
+   Name: Ms. Rehnuma Islam (SYNTHETIC)
+   Email: clsd@just.edu.bd
+   Phone: +880-421-61610
+   Office Location: CLSD Building, Ground Floor
+   Reports To: Vice-Chancellor (via Pro-Vice-Chancellor for academic
+               coordination, via Research Cell for grant matters)
+
+2. ESTABLISHMENT
+   Type: Institute
+   Established: 2015
+   Location: CLSD Building, Ground Floor
+
+3. MANDATE
+   CLSD provides English language proficiency and general
+   employability skill-building programs for all JUST students,
+   supplementing departmental curricula.
+
+4. KEY ACTIVITIES / SERVICES
+  - English language proficiency courses (open enrollment, all faculties)
+  - IELTS/TOEFL preparation workshops
+  - Communication and soft-skills training for final-year students
+  - Resume writing and interview preparation workshops
+  - Basic computer literacy short courses
+
+5. AFFILIATED / PRIMARY USER DEPARTMENTS
+  - Open to all students across all faculties/departments
+  - Coordinates with each department's placement/career cell where one exists
+
+6. HOW TO ACCESS SERVICES
+   Unlike most other units in this section, CLSD accepts DIRECT
+   STUDENT registration for its short courses and workshops,
+   without requiring department/supervisor endorsement.
+   Registration opens each semester via notice on the CLSD notice
+   board and the University website.
+
+7. ADDITIONAL STAFF
+   - Mr. Faisal Ahmed — Senior Language Instructor
+     Email: instructor1.clsd@just.edu.bd  |  Phone: +880-421-61611
+   - Ms. Sumaiya Kabir — Skills Development Coordinator
+     Email: coordinator.clsd@just.edu.bd  |  Phone: +880-421-61612
+
+
+================================================================
+END OF FILE
+================================================================

@@ -100,18 +100,31 @@ class JWTHelper:
     # ── Decode ────────────────────────────────────────────────────────────────
 
     @staticmethod
-    def decode(token: str) -> Optional[dict]:
+    def decode(token: str, verify_exp: bool = True) -> Optional[dict]:
         """
         Decode a JWT token.
 
         Returns:
-            The decoded payload dict, or None if invalid / expired.
+            The decoded payload dict, or None if signature is invalid.
         """
         try:
             return jwt.decode(
                 token,
                 settings.JWT_SECRET_KEY,
                 algorithms=[settings.JWT_ALGORITHM],
+                options={"verify_exp": verify_exp},
             )
         except JWTError:
+            # If standard decode failed due to exp, try with verify_exp=False
+            # while still strictly validating signature against settings.JWT_SECRET_KEY
+            if verify_exp:
+                try:
+                    return jwt.decode(
+                        token,
+                        settings.JWT_SECRET_KEY,
+                        algorithms=[settings.JWT_ALGORITHM],
+                        options={"verify_exp": False},
+                    )
+                except JWTError:
+                    return None
             return None

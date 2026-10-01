@@ -1,0 +1,78 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://asn.just.edu.bd/
+
+================================================================
+DEPARTMENT OF ANIMAL SCIENCE AND NUTRITION
+================================================================
+Faculty: Faculty of Veterinary Medicine
+
+1. CHAIRMAN
+   Name: Prof. Dr. Salma Rahman (SYNTHETIC)
+   Title: Chairman, Department of Animal Science and Nutrition
+   Designation: Professor
+   Email: salma.rahman@asn.just.edu.bd
+   Phone: +880-421-61747
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Veterinary Medicine
+
+2. DEPARTMENT OVERVIEW
+   Established: 2015
+   Degree Awarded: DVM (Doctor of Veterinary Medicine) — Contributing Department
+   Programme Duration: 5 years (includes internship)
+   Department Website: https://asn.just.edu.bd/
+   Department Office Email: office.asn@just.edu.bd
+   Department Office Phone: +880-421-61747 (main line; individual
+                              faculty extensions vary)
+
+   Covers animal nutrition, feed formulation, and animal science
+   fundamentals. Coordinates feed trial research with the Fish
+   Hatchery and Wet Lab (Section C) on occasion.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Mr. Aminul Reza — Assistant Professor
+     Email: aminul.reza@asn.just.edu.bd  |  Phone: +880-421-61754
+   - Ms. Tania Hossain — Lecturer
+     Email: tania.hossain@asn.just.edu.bd  |  Phone: +880-421-61761
+   - Mr. Nurul Islam — Lecturer
+     Email: nurul.islam@asn.just.edu.bd  |  Phone: +880-421-61768
+   - Prof. Dr. Sabina Ahmed — Professor
+     Email: sabina.ahmed@asn.just.edu.bd  |  Phone: +880-421-61775
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

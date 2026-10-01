@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+SUPPLEMENTARY AND IMPROVEMENT EXAMINATIONS
+==========================================
+
+1. SUPPLEMENTARY EXAMINATION (clause 6.7 — current system)
+   Purpose: to clear an F/X/I grade in a course.
+   - Held once per semester, in a window published with the
+     academic calendar (Section K), typically 3–4 weeks after
+     result publication.
+   - Eligibility: the student must register and pay the
+     supplementary examination fee (Section I) before the
+     deadline.
+   - Format: the FULL course assessment applies — a single
+     examination covering the whole syllabus, replacing the
+     final examination component (60 marks); the incourse
+     marks earned in the original semester are carried
+     forward where the department permits, or re-earned where
+     attendance (75%) lapsed (attendance_policy.txt).
+   - Result: the new grade is capped for record purposes —
+     the maximum grade point recorded for a supplementary
+     pass is 2.75 (B-) in the synthetic dataset's standing
+     rule; both attempts appear on the transcript.
+
+2. IMPROVEMENT EXAMINATION
+   Purpose: to improve a PASSED grade in a course.
+   - Eligibility: CGPA 2.00 or above; a course may be
+     improved only ONCE; at most 30% of total programme
+     credits may be improvement attempts.
+   - The improvement registration replaces the grade only if
+     the new grade is HIGHER; otherwise the original stands.
+   - Improvement attempts appear on the transcript with the
+     notation "Improvement".
+
+3. LIMITS AND STANDING IMPACT
+   - Students on probation may sit supplementary examinations
+     but may not register improvement attempts.
+   - Clearing a course via supplementary removes the F from
+     standing computation (latest grade counts — see
+     cgpa_computation.txt §5).
+
+4. INCOMPLETE (I) CLEARANCE
+   An "I" grade must be cleared at the next supplementary
+   window; failure to do so converts the grade to F
+   automatically (grading_policy.txt §2).
+
+5. PRE-2015-16 ARCHIVE RULE
+   Under the superseded system, backlog examinations followed
+   the single-100-mark format. That rule applies to archived
+   records only and is not available to current students.
+
+================================================================
+END OF FILE
+================================================================

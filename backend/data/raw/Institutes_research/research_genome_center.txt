@@ -1,0 +1,57 @@
+DOCUMENT TYPE: Research Centre Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/pages/genome-center
+
+================================================================
+GENOME CENTER
+================================================================
+
+1. LEADERSHIP
+   Title: Director, Genome Center
+   Name: Prof. Dr. Sharmin Akhter (SYNTHETIC)
+   Email: genomecenter@just.edu.bd
+   Phone: +880-421-61630
+   Office Location: Genome Center Building, Biological Science Complex
+   Reports To: Vice-Chancellor (via Pro-Vice-Chancellor for academic
+               coordination, via Research Cell for grant matters)
+
+2. ESTABLISHMENT
+   Type: Research Centre
+   Established: 2019
+   Location: Genome Center Building, Biological Science Complex
+
+3. MANDATE
+   The Genome Center supports genomics and molecular biology
+   research, including sequencing services and bioinformatics
+   support for University researchers.
+
+4. KEY ACTIVITIES / SERVICES
+  - DNA/RNA sequencing services for faculty and graduate researchers
+  - Bioinformatics analysis support and training
+  - Hosts genomics-focused workshops and short courses
+  - Collaborates with national agricultural and health research institutes
+
+5. AFFILIATED / PRIMARY USER DEPARTMENTS
+  - Primary users: Genetic Engineering and Biotechnology, Microbiology,
+     Biochemistry and Molecular Biology, Fisheries and Marine Bioscience
+  - Veterinary Medicine departments (Animal Breeding and Genetics, Pathology
+     and Parasitology) for applied genomics research
+
+6. HOW TO ACCESS SERVICES
+   Requests for use of facilities, instruments, or programs offered
+   here are typically routed through the requester's own Department
+   Chairman or thesis/project supervisor, who coordinates directly
+   with this unit's office. Individual students should not contact
+   this office directly without supervisor/Chairman endorsement.
+
+
+================================================================
+END OF FILE
+================================================================

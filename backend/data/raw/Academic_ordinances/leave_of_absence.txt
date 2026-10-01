@@ -1,0 +1,64 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+LEAVE OF ABSENCE, WITHDRAWAL AND READMISSION
+============================================
+
+1. TYPES OF LEAVE (clause 7.5)
+   Leave Type            Max Duration      Approval
+   ------------------------------------------------------------
+   Semester leave        2 consecutive     Chairman + Dean
+   (personal)            semesters
+   Medical leave         Up to 2 years     Chairman + Dean +
+                         total with Medical  Medical Centre
+                         Centre certificate  certification
+   Maternity leave       Per statute       Dean (Registrar
+                                           notified)
+   Mandatory duty        Course of duty   VC, on Proctor's
+   (sports/service)                     recommendation
+
+2. APPLICATION PROCEDURE
+   a. Apply in writing to the Chairman with supporting
+      documents BEFORE the leave period begins (retroactive
+      leave is granted only for hospitalization).
+   b. Clearance from the Hall Provost (Section F) and the
+      department is required for the leave to be recorded.
+   c. Leave is recorded on the transcript as "Leave —
+      Semester X" with no GPA effect.
+
+3. EFFECT ON STANDING
+   - Leave semesters do not count as probation semesters.
+   - The maximum-duration clock (probation_suspension
+     _termination.txt §5) PAUSES during approved leave and
+     resumes on return.
+
+4. WITHDRAWAL FROM THE UNIVERSITY
+   A student withdrawing entirely applies to the Registrar
+   (Section A) through the Chairman; a withdrawal record is
+   kept and the student may apply for readmission within the
+   maximum duration, subject to seat availability and the
+   prevailing curriculum.
+
+5. READMISSION
+   - After suspension: see probation_suspension_termination
+     .txt §3.
+   - After withdrawal/leave beyond two semesters: reapply
+     through the Registrar's office; credit for completed
+     courses is retained per the prevailing curriculum
+     equivalence list issued by the department.
+
+6. FEE DURING LEAVE
+   Semester fees are not charged for fully approved leave
+   semesters; partial-semester leave follows the refund rules
+   in Section I.
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,67 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+DEGREE REQUIREMENTS AND AWARD
+=============================
+
+1. REQUIREMENTS FOR AWARD (clause 10.2)
+   To be awarded the degree, a student must:
+   a. Complete ALL required courses of the approved curriculum
+      (Section G) with passing grades;
+   b. Earn the minimum total programme credits:
+        B.Sc. Engg.              160
+        B.Sc. (Hons)/B.Pharm     per approved curriculum
+                                 (150–160)
+        BBA                      per approved curriculum
+                                 (130–140)
+        B.A. (Hons) English      130
+        DVM                      per DVM schedule (200+)
+   c. Achieve CGPA of 2.00 or above;
+   d. Complete thesis/project and internship requirements
+      where the curriculum requires them (thesis_project
+      _guidelines.txt, internship_guidelines.txt);
+   e. Clear ALL dues (Section I) and return all university/
+      hall property (Section F for hall items, Section A —
+      Librarian for library items);
+   f. Have no pending disciplinary case (Section J).
+
+2. FINAL CLEARANCE PROCEDURE
+   Step   Office / Action
+   ------------------------------------------------------------
+   1      Apply to the Chairman for "final clearance" in the
+          final semester after the last final examination.
+   2      Department verifies curriculum completion.
+   3      Hall Provost issues hall clearance (Section F).
+   4      Librarian issues no-dues certificate (Section A).
+   5      Accounts Office issues financial clearance
+          (Section A — Director of Accounts; Section I for
+          fee settlement).
+   6      Controller of Examinations verifies results and
+          forwards the graduand list to the Academic Council.
+   7      Registrar issues the provisional certificate and
+          arranges convocation.
+
+3. AWARD AND RECORD
+   - Degrees are awarded at convocation; a provisional
+     certificate is issued earlier through the certificate
+     procedures in Section H.
+   - The transcript shows the CGPA, honours classification
+     (cgpa_computation.txt §7), and all courses including
+     repeats, improvements, and transfers.
+   - The original degree certificate is issued once; duplicate
+     procedures are in Section H.
+
+4. POSTHUMOUS / SPECIAL CASES
+   Degrees in absentia or posthumous awards follow Registrar's
+   Office rules under the University Act (Section A).
+
+================================================================
+END OF FILE
+================================================================

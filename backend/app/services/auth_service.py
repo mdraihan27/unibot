@@ -3,6 +3,7 @@ Auth Service — handles user registration and login business logic.
 """
 import logging
 from datetime import datetime, timezone
+from typing import Optional
 
 from app.database.mongodb import Database
 from app.exceptions.auth import (
@@ -62,6 +63,10 @@ class AuthService:
 
         # ── 3. Insert user ──────────────────────────────────────────────────
         user = UserModel(
+            name=payload.name.strip(),
+            roll=payload.roll.strip(),
+            department=payload.department.strip(),
+            faculty=payload.faculty.strip(),
             email=payload.email,
             hashed_password=hashed_password,
         )
@@ -73,7 +78,7 @@ class AuthService:
             logger.error("Register — DB insert failed: %s", exc)
             raise DatabaseError() from exc
 
-        logger.info("New user registered: %s", payload.email)
+        logger.info("New user registered: %s (Roll: %s)", payload.email, payload.roll)
 
         # ── 4. Auto-issue OTP ───────────────────────────────────────────────
         try:
@@ -82,7 +87,14 @@ class AuthService:
             # OTP failure is non-fatal at registration time; user can re-request
             logger.warning("Register — OTP auto-issue failed for %s: %s", payload.email, exc)
 
-        return {"email": payload.email, "is_verified": False}
+        return {
+            "name": user.name,
+            "roll": user.roll,
+            "department": user.department,
+            "faculty": user.faculty,
+            "email": payload.email,
+            "is_verified": False,
+        }
 
     # ── Login ─────────────────────────────────────────────────────────────────
 
@@ -137,3 +149,19 @@ class AuthService:
             access_token=access_token,
             refresh_token=refresh_token,
         )
+
+    @classmethod
+    async def get_by_email(cls, email: str) -> Optional[UserModel]:
+        db = Database.get_db()
+        try:
+            doc = await db[cls.COLLECTION].find_one({"email": email})
+            if not doc:
+                import re
+                doc = await db[cls.COLLECTION].find_one(
+                    {"email": {"$regex": f"^{re.escape(email)}$", "$options": "i"}}
+                )
+            if doc:
+                return UserModel.from_mongo(doc)
+        except Exception as exc:
+            logger.warning("get_by_email error for %s: %s", email, exc)
+        return None

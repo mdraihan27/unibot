@@ -1,0 +1,53 @@
+DOCUMENT TYPE: Legal Reference Summary
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+SUMMARY OF THE JUST ACT AND STATUTES (SYNTHETIC SUMMARY)
+================================================================
+NOTE: This is a synthetic placeholder summary for RAG testing. The
+real University Act text is a legal document and is not reproduced
+or invented in detail here; only structural references are modeled.
+
+1. ESTABLISHMENT
+   JUST is established as an autonomous public university by Act of
+   Parliament (synthetic reference: "Jashore University of Science
+   and Technology Act, 2007").
+
+2. CORPORATE STATUS
+   The University is a body corporate with perpetual succession, a
+   common seal, and the capacity to sue and be sued, acquire and hold
+   property, in its own name (standard public university provisions).
+
+3. STATUTORY BODIES ESTABLISHED BY THE ACT
+   - Regent Board
+   - Academic Council
+   - Finance Committee
+   - Selection Boards (for faculty recruitment)
+
+4. STATUTES AND ORDINANCES
+   - "Statutes" govern the University's basic structure, officer
+     appointments, and body compositions; amendment requires Regent
+     Board approval and, in some cases, government assent.
+   - "Ordinances" govern academic and examination matters in detail
+     (see academic_ordinance files); approved by Academic Council and
+     ratified by Regent Board.
+   - "Regulations" govern day-to-day administrative procedures; may
+     be approved at Registrar/VC level without full Regent Board
+     process, depending on scope.
+
+5. REGULATORY OVERSIGHT
+   JUST operates under the oversight of the University Grants
+   Commission (UGC) of Bangladesh for quality assurance, funding
+   coordination, and inter-university policy alignment. See
+   http://www.ugc.gov.bd/ (real external link referenced by JUST's
+   site).
+
+================================================================
+NOTE FOR RETRIEVAL SYSTEMS: This is a low-detail structural summary.
+For binding legal text, a real deployment must source the actual
+Act and Statutes documents; do not treat this synthetic file as
+legally authoritative even in testing scenarios that simulate legal
+queries.
+================================================================

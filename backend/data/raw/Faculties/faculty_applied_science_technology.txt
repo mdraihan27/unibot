@@ -1,0 +1,74 @@
+DOCUMENT TYPE: Faculty Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/faculties/fast
+
+================================================================
+FACULTY OF APPLIED SCIENCE AND TECHNOLOGY
+================================================================
+
+1. DEAN
+   Name: Prof. Dr. Omar Faruque (SYNTHETIC)
+   Title: Dean, Faculty of Applied Science and Technology
+   Email: dean.fast@just.edu.bd
+   Phone: +880-421-61520
+   Office Location: Faculty of Applied Science Building, 2nd Floor
+   Term: 2 years (rotating among eligible senior professors within
+         the faculty, per Academic Council seniority rules)
+   Reports To: Vice-Chancellor; represents the Faculty on the
+               Academic Council
+
+3. FACULTY ESTABLISHMENT
+   Established: 2010
+   Faculty Office Location: Faculty of Applied Science Building, 2nd Floor
+   Faculty Office Email: faculty.fast@just.edu.bd
+   Faculty Office Phone: +880-421-61520 (ext. varies by department)
+
+4. DEPARTMENTS UNDER THIS FACULTY (4)
+  1. Environmental Science and Technology (EST)
+  2. Nutrition and Food Technology (NFT)
+  3. Food Engineering (FE) — formerly Agro Product Processing Technology
+  4. Climate and Disaster Management (CDM)
+
+5. DEPARTMENT WEBSITES
+  - Environmental Science and Technology: https://est.just.edu.bd/
+  - Nutrition and Food Technology: https://nft.just.edu.bd/
+  - Food Engineering: https://appt.just.edu.bd/
+  - Climate and Disaster Management: https://cdm.just.edu.bd/
+
+6. DEAN'S OFFICE RESPONSIBILITIES
+   - Coordinates curriculum matters across departments within the
+     faculty before submission to the Academic Council
+   - Chairs the Faculty Academic Committee (all department chairmen
+     within the faculty)
+   - Approves faculty-level examination committee compositions on
+     recommendation of departments
+   - Represents the faculty in inter-faculty resource allocation
+     discussions
+   - First point of appeal for department-level academic disputes
+     before escalation to the Academic Council
+
+7. HOW TO CONTACT THE DEAN'S OFFICE
+   For matters specific to a single department, contact that
+   department's Chairman directly first (see Section D department
+   files). The Dean's Office is the right contact for:
+     - Cross-department curriculum questions within this faculty
+     - Appeals of department-level academic decisions
+     - Faculty-wide announcements and scheduling coordination
+
+8. NOTE
+   The Department of Food Engineering was formerly named
+   'Agro Product Processing Technology' — its website subdomain
+   (appt.just.edu.bd) still reflects the old name. This is a real
+   naming legacy carried over from the source data and preserved
+   here intentionally.
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,60 @@
+DOCUMENT TYPE: Institute Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/wmias
+
+================================================================
+INSTITUTE FOR HIGHER EDUCATION AND RESEARCH (IHER)
+================================================================
+
+1. LEADERSHIP
+   Title: Director, IHER
+   Name: Prof. Dr. Manzurul Haque (SYNTHETIC)
+   Email: iher@just.edu.bd
+   Phone: +880-421-61600
+   Office Location: IHER Building, 1st Floor
+   Reports To: Vice-Chancellor (via Pro-Vice-Chancellor for academic
+               coordination, via Research Cell for grant matters)
+
+2. ESTABLISHMENT
+   Type: Institute
+   Established: 2016
+   Location: IHER Building, 1st Floor
+
+3. MANDATE
+   IHER coordinates postgraduate (Master's and PhD) programs that
+   span multiple departments or do not sit within a single
+   department's exclusive purview, and supports interdisciplinary
+   research initiatives across faculties.
+
+4. KEY ACTIVITIES / SERVICES
+  - Administers cross-departmental Master's and PhD program enrollment
+  - Coordinates interdisciplinary research grants and seed funding
+  - Hosts visiting scholar and joint-supervision arrangements
+  - Organizes University-wide research seminars and workshops
+
+5. AFFILIATED / PRIMARY USER DEPARTMENTS
+  - Open to faculty and graduate students from any department
+  - Primary coordination with Research Cell and IQAC
+
+6. HOW TO ACCESS SERVICES
+   Requests for use of facilities, instruments, or programs offered
+   here are typically routed through the requester's own Department
+   Chairman or thesis/project supervisor, who coordinates directly
+   with this unit's office. Individual students should not contact
+   this office directly without supervisor/Chairman endorsement.
+
+7. ADDITIONAL STAFF
+   - Dr. Nasima Begum — Deputy Director, IHER
+     Email: dy.iher@just.edu.bd  |  Phone: +880-421-61601
+
+
+================================================================
+END OF FILE
+================================================================

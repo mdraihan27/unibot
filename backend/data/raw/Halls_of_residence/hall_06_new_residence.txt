@@ -1,0 +1,70 @@
+DOCUMENT TYPE: Hall Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALL 06 — NEW RESIDENTIAL HALL
+==============================
+
+1. HEAD OF HALL
+   Title: Provost
+   Name: Prof. Dr. Dilruba Yeasmin (SYNTHETIC)
+   Appointment: Senior faculty member, 2-year term (renewable
+   once), appointed by the Vice-Chancellor
+   Email: provost.hall6@just.edu.bd
+   Phone (Office): +880-421-61450
+   Office Location: North Campus, behind the New Academic Building — Ground Floor, Hall Office
+   Office Hours: Sunday-Thursday 9:00 AM - 5:00 PM; the
+   Provost or a duty Assistant Provost is reachable for
+   emergencies through the hall security desk 24 hours
+   Reports To: Vice-Chancellor (discipline liaison: Office of
+   the Proctor, Section A)
+
+2. HALL OVERVIEW
+   Established: 2021
+   Hall Number: 6
+   Gender: Co-educational (separate blocks/floors)
+   Blocks: A (female), B (male)
+   Residential Capacity: 300 seats
+   JUST's newest hall; Block A is female-only, Block B male-only, with separate entrances, stairwells and dining sittings. Motion-sensor lighting and solar water heaters installed; served as the model for the University's green-building guidelines.
+
+3. ASSISTANT PROVOSTS (on-call duty roster posted at the hall
+   office and main notice board)
+   - Dr. Tasnim Ashraf — Assistant Provost (Block A)
+     Email: t.ashraf@just.edu.bd  |  Phone: +880-421-61451
+   - Dr. Fuad Bin Afzal — Assistant Provost (Block B)
+     Email: f.afzal@just.edu.bd  |  Phone: +880-421-61452
+
+4. HOUSE TUTORS (HONORARY)
+   One House Tutor per block, drawn from faculty of the
+   faculties housed nearest the hall; the current list is
+   posted at the hall office each semester. House Tutors hold
+   weekly office hours in the hall and organize the
+   residential tutorial programme with the department
+   (Section D).
+
+5. STAFF
+   - Hall Clerk: room bookings, correspondence, records
+   - Accounts Assistant: mess accounts (mess_management.txt)
+   - Security Supervisor + gate staff (24-hour)
+   - Caretaker, electricians, plumbers, cleaners, mess staff
+
+6. RESIDENT COMMITTEES (elected each semester)
+   - Hall Union / Residents' Committee — cultural and sports
+   - Mess Committee — see mess_management.txt
+   - Common Room Committee — equipment and event booking
+
+7. CONTACT SUMMARY
+   Hall Office: +880-421-61450
+   Provost Email: provost.hall6@just.edu.bd
+   Hall Office Email: hall6.office@just.edu.bd
+   Security Desk (24 hr): +880-421-61499
+
+================================================================
+END OF FILE
+================================================================

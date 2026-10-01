@@ -1,0 +1,80 @@
+DOCUMENT TYPE: Committee Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/pages/Complaint-Committee
+
+================================================================
+COMPLAINT COMMITTEE
+================================================================
+
+1. PURPOSE
+   The Complaint Committee is the University's general grievance
+   redress body for complaints not otherwise routed to a specialized
+   committee (e.g., the Sexual Harassment Complaint Committee, which
+   operates separately — see sexual_harassment_policy.txt in
+   Section J once generated).
+
+2. COMPOSITION (SYNTHETIC)
+   Chair: Prof. Dr. Nasreen Sultana (Pro-Vice-Chancellor)
+   Member: Engr. Md. Ehsanul Kabir (Registrar)
+   Member: Dr. Mahfuzur Rahman (Proctor)
+   Member: Prof. Dr. Shirin Akter (Controller of Examinations)
+   Member Secretary: Ms. Farzana Akhter (Assistant Registrar, Establishment)
+   Email: complaints@just.edu.bd
+   Phone: +880-421-61450
+
+3. SCOPE OF COMPLAINTS HANDLED
+   - Administrative service failures (delays, non-response from an
+     office beyond the Citizen Charter commitment)
+   - Academic grievances not covered by a specific appeal process
+     (e.g., grade disputes not resolved at department level)
+   - General staff/faculty conduct complaints not involving
+     harassment or ragging (which have dedicated committees)
+   - Facilities and service quality complaints
+
+4. HOW TO FILE A COMPLAINT
+   Step 1: Submit in writing via email (complaints@just.edu.bd) or
+           in person at the Registrar's Office, Room 105.
+   Step 2: Include: your name, registration/employee ID, the office
+           or individual concerned, a factual description of the
+           issue, and any prior attempts to resolve it directly.
+   Step 3: Acknowledgement is sent within 3 working days.
+   Step 4: The Committee reviews and may request additional
+           information or a meeting with the complainant.
+   Step 5: A resolution or status update is provided within 30
+           working days of the original submission.
+
+5. CONFIDENTIALITY
+   Complaints are handled with reasonable confidentiality; the
+   respondent (person/office complained about) will typically be
+   informed of the complaint's substance as part of due process,
+   but the complainant's identity is not broadly publicized.
+
+6. ESCALATION
+   If unsatisfied with the Committee's resolution, a complainant may
+   appeal in writing to the Vice-Chancellor within 15 days of the
+   Committee's decision.
+
+7. RELATIONSHIP TO OTHER COMMITTEES
+   - Ragging complaints: routed to the Proctor's Office /
+     Anti-Ragging Committee (faster response time, see
+     anti_ragging_policy.txt).
+   - Sexual harassment complaints: routed to the dedicated Sexual
+     Harassment Complaint Committee (see sexual_harassment_policy.txt),
+     NOT this general Complaint Committee.
+   - Examination malpractice: routed to the Examination Committee
+     and Controller of Examinations, not this Committee.
+
+================================================================
+NOTE FOR RETRIEVAL SYSTEMS: This is the GENERAL complaint route.
+For ragging, harassment, or examination-malpractice complaints,
+retrieval should prioritize the SPECIALIZED policy documents over
+this general file, since those have faster response commitments and
+dedicated, more appropriate committees.
+================================================================

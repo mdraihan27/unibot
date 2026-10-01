@@ -1,0 +1,62 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+INTERNSHIP / INDUSTRIAL ATTACHMENT GUIDELINES
+=============================================
+
+1. REQUIREMENT
+   Programmes per their approved curriculum (Section G) require
+   a supervised internship of 3–4 credits, normally in the
+   break after Level 3 or early in the final year.
+
+2. APPROVAL
+   - The student submits the placement proposal (organization,
+     duration, supervisor, work plan) to the departmental
+     internship coordinator for approval before starting.
+   - The department maintains a list of approved organizations;
+   - self-arranged placements outside the list need additional
+     approval.
+
+3. DURATION AND CONDITIONS
+   - Standard duration: 6–8 weeks full-time (or the equivalent
+     part-time schedule approved by the coordinator).
+   - The student remains enrolled and covered by university
+     rules during the internship; workplace conduct reflects
+     on the university (Section J applies).
+   - No internship may be done in a close relative's direct
+     supervision; conflicts of interest must be declared.
+
+4. ASSESSMENT (100 marks)
+   Component                          Marks
+   ------------------------------------------------------------
+   Organization supervisor's report   30
+   Internship report                  30
+   Presentation / viva                30
+   Departmental coordinator's file    10
+   ------------------------------------------------------------
+   A failed internship is repeated in the next window;
+   degree award requires a pass (degree_requirements.txt).
+
+5. REPORT FORMAT
+   Standard format issued by the department: title page,
+   organization profile, work log, technical content, outcomes,
+   supervisor's evaluation form, and the coordinator's
+   sign-off page.
+
+6. LOGISTICS AND SAFETY
+   Travel and subsistence are the student's responsibility
+   unless a placement provides support; the Transport Office
+   (Section A) may assist with group travel to industrial
+   sites. Safety incidents are reported to the Proctor's
+   office (Section A) and the department.
+
+================================================================
+END OF FILE
+================================================================

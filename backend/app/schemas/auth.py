@@ -32,9 +32,21 @@ def validate_password_strength(password: str) -> str:
 # ── Registration ──────────────────────────────────────────────────────────────
 
 class RegisterRequest(BaseModel):
+    name: str
+    roll: str
+    department: str
+    faculty: str
     email: EmailStr
     password: str
     confirm_password: str
+
+    @field_validator("name", "roll", "department", "faculty")
+    @classmethod
+    def not_empty(cls, value: str) -> str:
+        value = value.strip()
+        if not value:
+            raise ValueError("This field cannot be empty.")
+        return value
 
     @field_validator("password")
     @classmethod
@@ -90,5 +102,9 @@ class TokenData(BaseModel):
 
 class UserPublic(BaseModel):
     """Safe user representation — never includes passwords or OTP codes."""
+    name: str = ""
+    roll: str = ""
+    department: str = ""
+    faculty: str = ""
     email: str
     is_verified: bool

@@ -1,0 +1,63 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/registrar
+
+================================================================
+OFFICE OF THE REGISTRAR
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Registrar
+   Name: Engr. Md. Ehsanul Kabir (SYNTHETIC)
+   Email: registrar@just.edu.bd
+   Phone (Office): +880-421-61233
+   Extension: 104
+   Office Location: Administrative Building, Ground Floor, Room 105
+   Office Hours: Sunday-Thursday: 9:00 AM - 5:00 PM
+   Reports To: Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Chief administrative officer of the University
+  - Custodian of University records, ordinances, and official seal
+  - Secretary to the Regent Board and Academic Council
+  - Issues official notices, circulars, transcripts, and certificates
+  - Oversees Academic Branch, Establishment Branch, and Public Relations Branch
+  - Maintains the official Student Register
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Transcript and certificate requests (final approval)
+  - Official notices and circular publication
+  - Student registration record corrections
+  - General administrative correspondence with the University
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+6. ADDITIONAL STAFF
+   - Mr. Aminul Islam — Deputy Registrar (Academic)
+     Email: dr.academic@just.edu.bd  |  Phone: +880-421-61234
+   - Ms. Farzana Akhter — Assistant Registrar (Establishment)
+     Email: ar.estab@just.edu.bd  |  Phone: +880-421-61235
+   - Mr. Mohammad Emdadul Haque — Assistant Registrar (Academic)
+     Email: ar.academic@just.edu.bd  |  Phone: +880-421-61236
+
+================================================================
+END OF FILE
+================================================================

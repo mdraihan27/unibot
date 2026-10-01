@@ -1,0 +1,46 @@
+DOCUMENT TYPE: Section Index
+SECTION: C — Institutes & Research Centres
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG system testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+SECTION C — FILE INDEX (5 files)
+================================================================
+
+INSTITUTES (2)
+  institute_iher.txt    Institute for Higher Education and Research
+                         (cross-departmental postgraduate programs,
+                         interdisciplinary research coordination)
+  institute_clsd.txt    Centre for Language and Skill Development
+                         (English/IELTS/soft-skills — DIRECT student
+                         enrollment, unlike other units in this section)
+
+RESEARCH LABORATORIES / CENTRES (3)
+  research_csirl.txt              Centre for Sophisticated Instrumentation
+                                   and Research Laboratory (shared analytical
+                                   instruments)
+  research_genome_center.txt      Genome Center (sequencing, bioinformatics)
+  research_fish_hatchery_wetlab.txt  Modern Fish Hatchery and Wet Lab
+                                   (aquaculture teaching + research)
+
+================================================================
+ACCESS MODEL NOTE
+================================================================
+Four of these five units follow a "route through your Department
+Chairman or supervisor" access model — they are primarily research
+infrastructure, not student-facing service points. CLSD is the
+exception: it takes direct student registration, similar to how the
+Office of Student Counselling and Guidance (Section A) works. A RAG
+system should not treat all five units as equally accessible to an
+individual student asking "how do I use X" — CLSD gets a direct
+answer; the other four get a "talk to your supervisor/Chairman
+first" answer.
+
+================================================================
+NEXT SECTION
+================================================================
+Section D — Departments (38 files, corrected from the earlier
+"26" estimate — see Section B index for the correction note).
+This is the largest remaining section.
+================================================================

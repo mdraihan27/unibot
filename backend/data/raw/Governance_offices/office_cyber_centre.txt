@@ -1,0 +1,50 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/cc
+
+================================================================
+CYBER CENTRE
+================================================================
+
+1. HEAD OF OFFICE
+   Title: In-Charge, Cyber Centre
+   Name: Mr. Saiful Islam (SYNTHETIC)
+   Email: cybercentre@just.edu.bd
+   Phone (Office): +880-421-61410
+   Extension: 121
+   Office Location: Cyber Centre Building, Ground Floor
+   Office Hours: Sunday-Thursday: 9:00 AM - 6:00 PM
+   Reports To: ICT Cell (operationally); Vice-Chancellor (administratively)
+
+2. PRIMARY RESPONSIBILITIES
+  - Provides computer lab access for students without personal devices
+  - Hosts printing/scanning services for academic use
+  - Supports online examination proctoring infrastructure
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Computer lab access requests
+  - Printing/scanning for academic submissions
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+================================================================
+END OF FILE
+================================================================

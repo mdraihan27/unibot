@@ -1,0 +1,60 @@
+DOCUMENT TYPE: Institutional Overview
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+ABOUT JUST
+================================================================
+
+1. IDENTITY
+   Full Name: Jashore University of Science and Technology
+   Short Name: JUST
+   Location: Jashore, Khulna Division, Bangladesh
+   Campus Address (synthetic): JUST Main Campus, Jashore-7408, Bangladesh
+   Established: 2007 (per University Act)
+   Type: Public Science & Technology University
+   Motto: "Jani Tai Shakti" ("Knowledge is Power")
+   Website: https://just.edu.bd (real domain, used here for structural
+            alignment only; content in this file is synthetic)
+
+2. LEGAL BASIS
+   JUST was established under "The Jashore University of Science and
+   Technology Act" passed by the National Parliament of Bangladesh.
+   It is a UGC (University Grants Commission) recognized public
+   university.
+
+3. INSTITUTIONAL SCALE (SYNTHETIC FIGURES)
+   Faculties: 8
+   Departments: 26
+   Institutes: 2
+   Research Centres/Labs: 3
+   Approx. undergraduate enrollment: 9,500 (synthetic)
+   Approx. postgraduate enrollment: 450 (synthetic)
+   Approx. faculty members (all departments): 480 (synthetic)
+   Approx. administrative/support staff: 650 (synthetic)
+
+4. CAMPUS FACILITIES OVERVIEW
+   - Central Library
+   - 6 Halls of Residence (3 for male, 3 for female students)
+   - Teachers and Students Centre (TSC)
+   - Central Cafeteria and departmental canteens
+   - University Medical Centre
+   - Cyber Centre
+   - Central Mosque and multi-faith prayer spaces
+   - Sports Complex (football field, gymnasium, indoor games room)
+   - JUST School and College (K-12 institution on campus)
+   - Central Auditorium
+
+5. RANKING / RECOGNITION (SYNTHETIC — illustrative placeholder only)
+   Referenced in this synthetic dataset as ranked within a regional
+   band for science & technology research output. Real rankings must
+   be sourced from official ranking bodies, not this file.
+
+6. CHIEF EXECUTIVE AUTHORITY
+   The Vice-Chancellor is the chief executive and academic officer.
+   See office_vice_chancellor.txt.
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,72 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+RESULT TABULATION, MODERATION AND PUBLICATION
+=============================================
+
+1. WHO DOES WHAT
+   - Course teachers submit marks (incourse + final) to the
+     department within 7 days of the examination.
+   - The department compiles and forwards to the Controller of
+     Examinations (Section A).
+   - The Controller's office tabulates, applies moderation,
+     computes SGPA/CGPA (cgpa_computation.txt), and publishes.
+
+2. MODERATION (clause 5.6)
+   - A departmental moderation committee (Chairman + two senior
+     teachers) reviews the grade distribution per course.
+   - If the failure rate in a course exceeds 40%, the
+     committee must justify the distribution in writing; an
+     automatic scaling UP of marks is not permitted, but a
+     review examination may be recommended in exceptional,
+     documented cases.
+   - Moderation cannot change any individual student's marks
+     by more than 5% and never across a grade boundary
+     without the course teacher's concurrence.
+
+3. PUBLICATION TIMELINE (standard)
+   - Provisional result: within 3 weeks of the last
+     examination of the semester.
+   - Final result: after the moderation committee signs off
+     and, for graduating students, after the final
+     clearance (degree_requirements.txt).
+   - Results are published on the student portal and the
+     notice board of the Controller of Examinations.
+
+4. RE-TOTALING AND REVIEW
+   - A student may apply for re-totaling (arithmetic check of
+     the final script) within 15 days of result publication,
+     with the prescribed fee (Section I).
+   - The Controller re-totals in presence of the department's
+     nominee; the outcome is final for re-totaling.
+   - A full script review (beyond arithmetic) is not
+     available; grade change for clerical error only
+     (grading_policy.txt §3).
+
+5. INCOMPLETE (I) GRADES IN RESULTS
+   Courses graded "I" are excluded from SGPA/CGPA until
+   cleared; after the supplementary/makeup examination the
+   grade is entered and GPA recomputed (see grading_policy.txt
+   §2 for the deadline).
+
+6. RESULT WITHHOLDING
+   Results may be withheld for dues (Section I) or pending
+   disciplinary cases (Section J); withheld results are
+   released upon clearance, not re-computed.
+
+7. CORRECTION OF RECORDS
+   Errors in a published result (name, ID, course list) are
+   corrected by the Registrar's Office (Section A) on
+   production of documents; a corrected transcript is issued
+   per Section H procedures.
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,59 @@
+DOCUMENT TYPE: Research Facility Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/modern-fish-hatchery-and-wet-lab
+
+================================================================
+MODERN FISH HATCHERY AND WET LAB
+================================================================
+
+1. LEADERSHIP
+   Title: In-Charge, Fish Hatchery and Wet Lab
+   Name: Prof. Dr. Golam Mostafa (SYNTHETIC)
+   Email: hatchery@just.edu.bd
+   Phone: +880-421-61640
+   Office Location: Fish Hatchery Complex, near Biological Science Building
+   Reports To: Vice-Chancellor (via Pro-Vice-Chancellor for academic
+               coordination, via Research Cell for grant matters)
+
+2. ESTABLISHMENT
+   Type: Research Facility
+   Established: 2018
+   Location: Fish Hatchery Complex, near Biological Science Building
+
+3. MANDATE
+   This facility supports applied aquaculture research, teaching
+   demonstrations, and limited fingerling/seed production for
+   research and extension purposes.
+
+4. KEY ACTIVITIES / SERVICES
+  - Hosts practical/laboratory classes for Fisheries and Marine Bioscience students
+  - Supports faculty aquaculture research projects
+  - Breeding and rearing trials for research purposes
+  - Occasional extension/outreach demonstrations for local fish farmers
+
+5. AFFILIATED / PRIMARY USER DEPARTMENTS
+  - Primary user: Department of Fisheries and Marine Bioscience
+  - Secondary use: Department of Animal Science and Nutrition (feed trials)
+
+6. HOW TO ACCESS SERVICES
+   Requests for use of facilities, instruments, or programs offered
+   here are typically routed through the requester's own Department
+   Chairman or thesis/project supervisor, who coordinates directly
+   with this unit's office. Individual students should not contact
+   this office directly without supervisor/Chairman endorsement.
+
+7. ADDITIONAL STAFF
+   - Mr. Habibur Rahman — Hatchery Technician
+     Email: tech.hatchery@just.edu.bd  |  Phone: +880-421-61641
+
+
+================================================================
+END OF FILE
+================================================================

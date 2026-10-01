@@ -1,0 +1,77 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+SGPA AND CGPA COMPUTATION
+=========================
+
+1. DEFINITIONS
+   SGPA (Semester GPA): weighted average of grade points for
+     all graded courses taken in ONE semester.
+   CGPA (Cumulative GPA): weighted average of grade points for
+     ALL graded courses taken up to that point.
+
+2. FORMULAS (clause 5.4)
+   SGPA = Σ(Ci × Pi) / ΣCi          over all graded courses i
+     in the semester, where Ci = credit hours, Pi = grade
+     point of the letter grade.
+
+   CGPA = Σ(Ci × Pi) / ΣCi          over ALL graded courses
+     taken to date (including repeated courses — see §5).
+
+3. WORKED EXAMPLE
+   Course     Credit   Grade   GP     Credit × GP
+   -----------------------------------------------
+   CSE 1101     3      A+      4.00     12.00
+   CSE 1102     1      A       3.75      3.75
+   MATH 1101    3      B+      3.25      9.75
+   PHY 1101     3      B       3.00      9.00
+   PHY 1102     1      A-      3.50      3.50
+   HUM 1101     2      A       3.75      7.50
+   -----------------------------------------------
+   Totals      13               —       42.50
+
+   SGPA = 42.50 / 13 = 3.27 (rounded to two decimal places)
+
+4. ROUNDING
+   - Grade points are exact values from the grade table
+     (grading_policy.txt); no per-course rounding.
+   - SGPA/CGPA are rounded to TWO decimal places, half-up
+     (e.g., 3.265 → 3.27; 3.264 → 3.26).
+
+5. REPEATED COURSES
+   - When a course is repeated (supplementary_exams.txt), BOTH
+     enrollments appear on the transcript, but only the
+     LATEST grade counts in CGPA.
+   - Credits for a repeated course count ONCE in the CGPA
+     denominator.
+
+6. EXCLUDED FROM GPA
+   - AU (audit), W (withdrawal), P/NP courses.
+   - "I" (incomplete) until cleared (grading_policy.txt §2).
+
+7. HONOURS CLASSIFICATION (for the award record)
+   CGPA Range       Class (as recorded on the degree)
+   ------------------------------------------------------------
+   3.75 – 4.00      First Class with Distinction (Summa)
+   3.50 – 3.74      First Class
+   3.00 – 3.49      Second Class (Upper)
+   2.50 – 2.99      Second Class (Lower)
+   2.00 – 2.49      Third Class
+   Below 2.00       — (degree not awarded; see
+                    degree_requirements.txt)
+
+8. MINIMUM CGPA FOR DEGREE
+   A CGPA of 2.00 or above in ALL courses counted toward the
+   degree, with all required courses passed, is the minimum
+   for award (degree_requirements.txt).
+
+================================================================
+END OF FILE
+================================================================

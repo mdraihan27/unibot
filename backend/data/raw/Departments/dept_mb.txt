@@ -1,0 +1,82 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://mb.just.edu.bd/
+
+================================================================
+DEPARTMENT OF MICROBIOLOGY
+================================================================
+Faculty: Faculty of Biological Science and Technology
+
+1. CHAIRMAN
+   Name: Prof. Dr. Shahidul Kader (SYNTHETIC)
+   Title: Chairman, Department of Microbiology
+   Designation: Professor
+   Email: shahidul.kader@mb.just.edu.bd
+   Phone: +880-421-61750
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Biological Science and Technology
+
+2. DEPARTMENT OVERVIEW
+   Established: 2009
+   Degree Awarded: B.Sc. (Hons) in Microbiology
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://mb.just.edu.bd/
+   Department Office Email: office.mb@just.edu.bd
+   Department Office Phone: +880-421-61750 (main line; individual
+                              faculty extensions vary)
+
+   Covers medical, industrial, and environmental microbiology.
+   Operates a BSL-2 teaching laboratory and coordinates research
+   access with the Genome Center (see Section C).
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Ms. Nazma Islam — Assistant Professor
+     Email: nazma.islam@mb.just.edu.bd  |  Phone: +880-421-61757
+   - Mr. Kamrul Bhuiyan — Lecturer
+     Email: kamrul.bhuiyan@mb.just.edu.bd  |  Phone: +880-421-61764
+   - Ms. Salma Rahman — Lecturer
+     Email: salma.rahman@mb.just.edu.bd  |  Phone: +880-421-61771
+   - Prof. Dr. Aminul Reza — Professor
+     Email: aminul.reza@mb.just.edu.bd  |  Phone: +880-421-61778
+   - Prof. Dr. Tania Hossain — Professor
+     Email: tania.hossain@mb.just.edu.bd  |  Phone: +880-421-61785
+   - Dr. Nurul Islam — Associate Professor
+     Email: nurul.islam@mb.just.edu.bd  |  Phone: +880-421-61792
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

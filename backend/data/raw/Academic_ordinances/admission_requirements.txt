@@ -1,0 +1,77 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ADMISSION REQUIREMENTS
+======================
+
+1. GENERAL ELIGIBILITY (clause 2.2)
+   a. The applicant must have passed SSC/equivalent and
+      HSC/equivalent examinations, or their recognized
+      equivalents, in the science group (or the group
+      specified for the target programme).
+   b. Minimum GPA requirements (per the admission notice for
+      the session; figures below are the synthetic dataset's
+      standing defaults):
+        - SSC (or equivalent): GPA 4.00 (out of 5.00)
+        - HSC (or equivalent): GPA 4.00 (out of 5.00)
+        - Combined (SSC+HSC): GPA 8.00
+      Programmes with higher demand (CSE, Pharmacy, DVM) may
+      set higher cutoffs in the annual admission notice.
+   c. No more than one year gap between SSC and HSC is
+      penalized; longer gaps are handled per admission
+      notice rules.
+   d. The applicant must satisfy any programme-specific
+      subject requirements (e.g., Mathematics for
+      Engineering programmes; Biology for Pharmacy, DVM,
+      Microbiology).
+
+2. ADMISSION ROUTES
+   Route             Basis
+   ----------------------------------------------------------
+   Admission test    Central admission test administered per
+                     the admission notice (Section K for dates)
+   Quota             Freedom fighter, tribal, district, and
+                     other quotas per University Act and the
+                     admission notice
+   Foreign/transfer  See transfer_credit.txt for credit
+                     transfer; foreign admission through
+                     International Service Centre (Section A)
+
+3. SELECTION PROCESS
+   a. Applications are submitted through the online admission
+      portal in the window published in the admission notice.
+   b. Eligible applicants sit the admission test; the merit
+      list combines SSC+HSC GPA and test score per the
+      formula in the admission notice.
+   c. Selected candidates must complete admission formalities
+      (verification, medical fitness, enrolment fee) by the
+      published deadline. Failure to complete formalities
+      forfeits the seat.
+
+4. ENROLMENT
+   After admission, the student is enrolled in Level-1,
+   Semester-1 of the assigned programme and is issued a
+   registration number and student ID card. The student ID
+   card is valid for the duration of the programme and must
+   be presented at examinations (examination_conduct.txt).
+
+5. ADMISSION OF IRREGULAR STUDENTS
+   Students admitted mid-programme from other universities
+   follow transfer_credit.txt and register from the semester
+   determined by the credit evaluation committee.
+
+6. DISQUALIFICATION
+   Admission is void if any document is found forged or
+   misrepresented at any point; the matter is referred to the
+   disciplinary authority (Section J).
+
+================================================================
+END OF FILE
+================================================================

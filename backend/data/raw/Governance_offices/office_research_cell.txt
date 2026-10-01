@@ -1,0 +1,51 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/rc
+
+================================================================
+OFFICE OF THE RESEARCH CELL
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Director, Research Cell
+   Name: Prof. Dr. Mizanur Rahman (SYNTHETIC)
+   Email: research@just.edu.bd
+   Phone (Office): +880-421-61350
+   Extension: 116
+   Office Location: Administrative Building, 2nd Floor, Room 220
+   Office Hours: Sunday-Thursday: 9:00 AM - 5:00 PM
+   Reports To: Pro-Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Coordinates internal and external research grant applications
+  - Manages University research fund disbursement
+  - Promotes faculty research output and publication support
+  - Coordinates ethical review for research involving human/animal subjects
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Research grant applications (internal University fund)
+  - Research ethics clearance requests
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+================================================================
+END OF FILE
+================================================================

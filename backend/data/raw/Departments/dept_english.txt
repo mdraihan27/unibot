@@ -1,0 +1,84 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://eng.just.edu.bd/
+
+================================================================
+DEPARTMENT OF ENGLISH
+================================================================
+Faculty: Faculty of Arts and Social Science
+
+1. CHAIRMAN
+   Name: Prof. Dr. Kamrul Alam (SYNTHETIC)
+   Title: Chairman, Department of English
+   Designation: Professor
+   Email: kamrul.alam@eng.just.edu.bd
+   Phone: +880-421-61968
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Arts and Social Science
+
+2. DEPARTMENT OVERVIEW
+   Established: 2011
+   Degree Awarded: BA (Hons) in English
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://eng.just.edu.bd/
+   Department Office Email: office.eng@just.edu.bd
+   Department Office Phone: +880-421-61968 (main line; individual
+                              faculty extensions vary)
+
+   The sole department under the Faculty of Arts and Social
+   Science, offering a comprehensive program in English
+   literature, linguistics, and language teaching. This
+   department's academic ordinance (2015-16 version) was the
+   basis for an earlier document reformatting task in this
+   project — see academic_ordinance_undergraduate.txt in Section
+   E for the current University-wide version.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Ms. Salma Sarkar — Lecturer
+     Email: salma.sarkar@eng.just.edu.bd  |  Phone: +880-421-61975
+   - Prof. Dr. Aminul Karim — Professor
+     Email: aminul.karim@eng.just.edu.bd  |  Phone: +880-421-61982
+   - Prof. Dr. Tania Haque — Professor
+     Email: tania.haque@eng.just.edu.bd  |  Phone: +880-421-61989
+   - Dr. Nurul Chowdhury — Associate Professor
+     Email: nurul.chowdhury@eng.just.edu.bd  |  Phone: +880-421-61996
+   - Dr. Sabina Kader — Associate Professor
+     Email: sabina.kader@eng.just.edu.bd  |  Phone: +880-421-61703
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

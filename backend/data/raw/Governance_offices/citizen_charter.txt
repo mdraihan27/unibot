@@ -1,0 +1,54 @@
+DOCUMENT TYPE: Citizen Charter
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG testing only.
+EFFECTIVE DATE: 2026-01-01
+SOURCE ALIGNMENT: https://just.edu.bd/pages/Citizen-Charter (real
+                  link; content below is synthetic)
+
+================================================================
+CITIZEN CHARTER (SYNTHETIC)
+================================================================
+A Citizen Charter is a public commitment by a government institution
+on the services it provides, to whom, and within what timeframe.
+Below is a synthetic version modeling the expected structure.
+
+SERVICE: Admission Information
+  Provided by: Admissions Office / Central Admission Committee
+  Response time commitment: Admission circular published minimum 60
+    days before test date; queries answered within 3 working days.
+
+SERVICE: Transcript Issuance
+  Provided by: Office of the Controller of Examinations
+  Response time commitment: 7-10 working days standard; 3 working
+    days for urgent requests (fee applies).
+
+SERVICE: Certificate Issuance (Provisional/Final/Duplicate)
+  Provided by: Office of the Controller of Examinations
+  Response time commitment: 10-15 working days.
+
+SERVICE: Fee Payment Support
+  Provided by: Office of the Director of Accounts
+  Response time commitment: Same-day receipt confirmation for online
+    payments; 2 working days for bank-branch payment reconciliation.
+
+SERVICE: Complaint Redress (General)
+  Provided by: Complaint Committee (see complaint_committee.txt)
+  Response time commitment: Acknowledgement within 3 working days;
+    resolution or status update within 30 working days.
+
+SERVICE: Hall Seat Allocation
+  Provided by: Respective Hall Provost Office
+  Response time commitment: Allocation list published within 15
+    working days of application deadline.
+
+SERVICE: ID Card Issuance/Reissue
+  Provided by: Office of the Registrar (Academic Branch) / ICT Cell
+  Response time commitment: 5 working days.
+
+GRIEVANCE ESCALATION
+  If a service commitment above is not met, the citizen may escalate
+  in writing to the Registrar's Office, referencing this Charter.
+
+================================================================
+END OF FILE
+================================================================

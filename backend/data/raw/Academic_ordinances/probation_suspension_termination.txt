@@ -1,0 +1,73 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ACADEMIC STANDING — PROBATION, SUSPENSION, TERMINATION
+======================================================
+
+1. GOOD STANDING
+   A student is in good standing with SGPA/CGPA of 2.00 or
+   above in the most recent semester.
+
+2. PROBATION (clause 7.2)
+   - Trigger: SGPA below 2.00 in any semester.
+   - Effect: the student is placed on academic probation for
+     one semester and must meet the adviser (Section D
+     rosters) before registration; course load may be
+     restricted by the Chairman (typically 12–15 credits).
+   - Removal: SGPA of 2.00 or above in the probation
+     semester.
+   - Second consecutive probation semester → suspension
+     (see §3).
+
+3. SUSPENSION
+   - Trigger: SGPA below 2.00 in two consecutive semesters.
+   - Effect: suspension from the programme for one semester;
+     the student may apply for readmission for the following
+     semester with the Chairman's and Dean's approval.
+   - During suspension the student may sit supplementary
+     examinations (supplementary_exams.txt) to clear F
+     grades.
+
+4. TERMINATION (clause 7.4)
+   - Trigger: any of the following —
+       a. SGPA below 2.00 in three consecutive semesters;
+       b. failure to clear a required course after three
+          attempts;
+       c. maximum duration exceeded (see §5);
+       d. disciplinary expulsion (Section J).
+   - Effect: termination from the programme; written notice
+     issued by the Registrar's Office (Section A).
+   - Reinstatement after termination is by appeal to the
+     Academic Council only, within 30 days of the notice.
+
+5. MAXIMUM PROGRAMME DURATION
+   - 4-year programmes: maximum 6 years (12 regular semesters
+     equivalent) from first enrolment.
+   - 5-year DVM: maximum 7 years.
+   - Extensions for documented medical/leave grounds are
+     granted by the Academic Council on the Dean's
+     recommendation (leave_of_absence.txt).
+
+6. APPEALS
+   Standing decisions (probation/suspension/termination) may
+   be appealed in writing to the Chairman within 10 working
+   days, then to the Dean, then to the Academic Council. The
+   Academic Council's decision is final within the
+     university.
+
+7. NOTIFICATION
+   Probation/suspension/termination notices are emailed to the
+   student and posted to the guardian address on record; the
+   Proctor's office (Section A) is copied for suspended
+   students.
+
+================================================================
+END OF FILE
+================================================================

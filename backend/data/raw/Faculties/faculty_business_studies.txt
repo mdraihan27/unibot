@@ -1,0 +1,72 @@
+DOCUMENT TYPE: Faculty Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/faculties/fbs
+
+================================================================
+FACULTY OF BUSINESS STUDIES
+================================================================
+
+1. DEAN
+   Name: Prof. Dr. Tania Islam (SYNTHETIC)
+   Title: Dean, Faculty of Business Studies
+   Email: dean.fbs@just.edu.bd
+   Phone: +880-421-61560
+   Office Location: Faculty of Business Studies Building, 2nd Floor
+   Term: 2 years (rotating among eligible senior professors within
+         the faculty, per Academic Council seniority rules)
+   Reports To: Vice-Chancellor; represents the Faculty on the
+               Academic Council
+
+3. FACULTY ESTABLISHMENT
+   Established: 2012
+   Faculty Office Location: Faculty of Business Studies Building, 2nd Floor
+   Faculty Office Email: faculty.fbs@just.edu.bd
+   Faculty Office Phone: +880-421-61560 (ext. varies by department)
+
+4. DEPARTMENTS UNDER THIS FACULTY (4)
+  1. Accounting and Information Systems (AIS)
+  2. Management
+  3. Finance and Banking (FB)
+  4. Marketing
+
+5. DEPARTMENT WEBSITES
+  - Accounting and Information Systems: https://ais.just.edu.bd/
+  - Management: https://mgt.just.edu.bd/
+  - Finance and Banking: https://fb.just.edu.bd/
+  - Marketing: https://mkt.just.edu.bd/
+
+6. DEAN'S OFFICE RESPONSIBILITIES
+   - Coordinates curriculum matters across departments within the
+     faculty before submission to the Academic Council
+   - Chairs the Faculty Academic Committee (all department chairmen
+     within the faculty)
+   - Approves faculty-level examination committee compositions on
+     recommendation of departments
+   - Represents the faculty in inter-faculty resource allocation
+     discussions
+   - First point of appeal for department-level academic disputes
+     before escalation to the Academic Council
+
+7. HOW TO CONTACT THE DEAN'S OFFICE
+   For matters specific to a single department, contact that
+   department's Chairman directly first (see Section D department
+   files). The Dean's Office is the right contact for:
+     - Cross-department curriculum questions within this faculty
+     - Appeals of department-level academic decisions
+     - Faculty-wide announcements and scheduling coordination
+
+8. NOTE
+   All four departments under this faculty award the BBA (Bachelor
+   of Business Administration) degree with a departmental major;
+   see each department's academic structure file in Section E.
+
+================================================================
+END OF FILE
+================================================================

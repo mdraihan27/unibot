@@ -1,0 +1,73 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+GRADING POLICY — LETTER GRADES AND GRADE POINTS
+===============================================
+
+1. GRADE TABLE (clause 5.3, current — Amendment I scale)
+   Letter Grade   Numerical Range (%)   Grade Point
+   -------------------------------------------------
+   A+             80 and above          4.00
+   A              75–79                 3.75
+   A-             70–74                 3.50
+   B+             65–69                 3.25
+   B              60–64                 3.00
+   B-             55–59                 2.75
+   C+             50–54                 2.50
+   C              45–49                 2.25
+   D              40–44                 2.00
+   F              Below 40              0.00
+   -------------------------------------------------
+   - "D" is the minimum passing grade for theory courses in
+     most programmes; some programmes (e.g., DVM, Pharmacy)
+     require "C" or better in professional courses per their
+     approved curriculum (Section G).
+   - Laboratory courses commonly require a minimum of "C".
+
+2. SPECIAL GRADES
+   Grade   Meaning
+   ----------------------------------------------------------
+   I       Incomplete — granted only for documented illness
+           or emergency in the final examination; must be
+           cleared within one regular semester by sitting the
+           supplementary/makeup examination; otherwise
+           converts to F automatically.
+   W       Withdrawn — see course_registration.txt §4.
+   AU      Audit — no grade points.
+   P/NP    Pass/No Pass — used for orientation, viva-voce and
+           non-credit requirements where adopted; not counted
+           in CGPA.
+   X       Absent in final examination without valid reason —
+           grade point 0.00, treated as F for standing.
+
+3. GRADE CHANGES
+   - A grade may be changed only for documented clerical or
+     tabulation error, and only by the Controller of
+     Examinations with the concurrence of the course teacher
+     and the Chairman, within 30 days of result publication.
+   - Students request re-totaling per result_publication.txt;
+     grade changes never result from negotiation with the
+     course teacher.
+
+4. WITHHOLDING GRADES
+   The Controller of Examinations may withhold a student's
+   grades for unpaid dues (Section I) or a pending
+   disciplinary case (Section J); grades are released when
+   the hold clears.
+
+5. TRANSCRIPT DISPLAY
+   The transcript (procedures in Section H) shows, per
+   course: code, title, credits, letter grade, grade points;
+   and per semester: semester GPA (SGPA) and cumulative GPA
+   (CGPA) per cgpa_computation.txt.
+
+================================================================
+END OF FILE
+================================================================

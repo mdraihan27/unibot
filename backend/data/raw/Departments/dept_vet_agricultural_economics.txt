@@ -1,0 +1,76 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://aec.just.edu.bd/
+
+================================================================
+DEPARTMENT OF AGRICULTURAL ECONOMICS
+================================================================
+Faculty: Faculty of Veterinary Medicine
+
+1. CHAIRMAN
+   Name: Prof. Dr. Rezaul Rahman (SYNTHETIC)
+   Title: Chairman, Department of Agricultural Economics
+   Designation: Professor
+   Email: rezaul.rahman@aec.just.edu.bd
+   Phone: +880-421-61782
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Veterinary Medicine
+
+2. DEPARTMENT OVERVIEW
+   Established: 2016
+   Degree Awarded: DVM (Doctor of Veterinary Medicine) — Contributing Department
+   Programme Duration: 5 years (includes internship)
+   Department Website: https://aec.just.edu.bd/
+   Department Office Email: office.aec@just.edu.bd
+   Department Office Phone: +880-421-61782 (main line; individual
+                              faculty extensions vary)
+
+   Covers agricultural and livestock economics, farm management
+   economics, and rural development topics relevant to veterinary
+   practice contexts.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Dr. Rumana Khan — Associate Professor
+     Email: rumana.khan@aec.just.edu.bd  |  Phone: +880-421-61789
+   - Dr. Golam Hossain — Associate Professor
+     Email: golam.hossain@aec.just.edu.bd  |  Phone: +880-421-61796
+   - Ms. Yasmin Hasan — Assistant Professor
+     Email: yasmin.hasan@aec.just.edu.bd  |  Phone: +880-421-61803
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,79 @@
+DOCUMENT TYPE: Faculty Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/faculties/fbst
+
+================================================================
+FACULTY OF BIOLOGICAL SCIENCE AND TECHNOLOGY
+================================================================
+
+1. DEAN
+   Name: Prof. Dr. Rehana Begum (SYNTHETIC)
+   Title: Dean, Faculty of Biological Science and Technology
+   Email: dean.fbst@just.edu.bd
+   Phone: +880-421-61510
+   Office Location: Faculty of Biological Science Building, 3rd Floor
+   Term: 2 years (rotating among eligible senior professors within
+         the faculty, per Academic Council seniority rules)
+   Reports To: Vice-Chancellor; represents the Faculty on the
+               Academic Council
+
+2. VICE-DEAN / ASSOCIATE DEAN
+   Name: Prof. Dr. Salma Nasrin (SYNTHETIC)
+   Email: vicedean.fbst@just.edu.bd
+
+3. FACULTY ESTABLISHMENT
+   Established: 2009
+   Faculty Office Location: Faculty of Biological Science Building, 3rd Floor
+   Faculty Office Email: faculty.fbst@just.edu.bd
+   Faculty Office Phone: +880-421-61510 (ext. varies by department)
+
+4. DEPARTMENTS UNDER THIS FACULTY (5)
+  1. Microbiology (MB)
+  2. Fisheries and Marine Bioscience (FMB)
+  3. Genetic Engineering and Biotechnology (GEBT)
+  4. Pharmacy (PHM)
+  5. Biochemistry and Molecular Biology (BMB)
+
+5. DEPARTMENT WEBSITES
+  - Microbiology: https://mb.just.edu.bd/
+  - Fisheries and Marine Bioscience: https://fmb.just.edu.bd/
+  - Genetic Engineering and Biotechnology: https://gebt.just.edu.bd/
+  - Pharmacy: https://phm.just.edu.bd/
+  - Biochemistry and Molecular Biology: https://bmb.just.edu.bd/
+
+6. DEAN'S OFFICE RESPONSIBILITIES
+   - Coordinates curriculum matters across departments within the
+     faculty before submission to the Academic Council
+   - Chairs the Faculty Academic Committee (all department chairmen
+     within the faculty)
+   - Approves faculty-level examination committee compositions on
+     recommendation of departments
+   - Represents the faculty in inter-faculty resource allocation
+     discussions
+   - First point of appeal for department-level academic disputes
+     before escalation to the Academic Council
+
+7. HOW TO CONTACT THE DEAN'S OFFICE
+   For matters specific to a single department, contact that
+   department's Chairman directly first (see Section D department
+   files). The Dean's Office is the right contact for:
+     - Cross-department curriculum questions within this faculty
+     - Appeals of department-level academic decisions
+     - Faculty-wide announcements and scheduling coordination
+
+8. NOTE
+   The Department of Pharmacy under this faculty has additional
+   accreditation requirements (Pharmacy Council of Bangladesh) not
+   applicable to other departments in this faculty — see
+   dept_phm.txt in Section D for detail.
+
+================================================================
+END OF FILE
+================================================================

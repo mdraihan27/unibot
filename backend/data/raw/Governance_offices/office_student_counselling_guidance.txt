@@ -1,0 +1,56 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/counselling
+
+================================================================
+OFFICE OF STUDENT COUNSELLING AND GUIDANCE
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Chief Counsellor
+   Name: Dr. Sabrina Afroz (SYNTHETIC)
+   Email: counselling@just.edu.bd
+   Phone (Office): +880-421-61280
+   Extension: 109
+   Office Location: Teachers and Students Centre (TSC), 1st Floor
+   Office Hours: Sunday-Thursday: 10:00 AM - 3:00 PM (walk-in); appointments available beyond these hours
+   Reports To: Pro-Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Provides confidential academic, personal, and career counselling
+  - Coordinates need-based financial aid applications
+  - Refers students to Medical Centre or external mental health professionals as needed
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Personal/emotional counselling appointments
+  - Academic stress and probation guidance
+  - Need-based financial aid applications
+  - Career counselling
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+6. ADDITIONAL STAFF
+   - Ms. Tahmina Akter — Counsellor
+     Email: counsellor2@just.edu.bd  |  Phone: +880-421-61281
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,71 @@
+DOCUMENT TYPE: Halls Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALLS OF RESIDENCE — OVERVIEW
+=============================
+
+1. ROLE OF HALL RESIDENCE
+   Residence in a university hall is optional but strongly
+   encouraged for students whose home is outside commuting
+   range of the campus. Halls are academic communities under
+   the authority of a Provost (a senior faculty member
+   appointed by the Vice-Chancellor), and are the primary
+   venue for the University's residential tutorial and
+   counselling support (Office of Student Counselling,
+   Section A).
+
+2. HALL LIST AND CAPACITY SUMMARY
+
+   #  Hall                                Gender   Blocks  Seats
+   --------------------------------------------------------------
+   1  Shaheed Mashiur Rahman Hall         Male     3       450
+   2  Lalon Shah Hall                     Male     3       450
+   3  Sheikh Hasina Hall                  Female   3       450
+   4  Begum Khaleda Zia Hall              Female   3       450
+   5  Jasimuddin Hall (PG wing)           Male*    2       250
+   6  New Residential Hall                Co-ed    2       300
+   --------------------------------------------------------------
+   * Jasimuddin Hall prioritizes postgraduate and final-year
+     students; remaining seats open to undergraduates.
+
+   Total residential capacity: 2,350 seats (synthetic).
+   Approximately 60-65% of non-local undergraduates are
+   accommodated in halls; the remainder use approved private
+   housing near campus (see §5).
+
+3. ADMINISTRATIVE STRUCTURE (per hall)
+   - Provost — head of hall (faculty member, appointed 2-year
+     term, renewable once). Full authority over hall
+     administration.
+   - Assistant Provost — 1 per ~150 residents; assists the
+     Provost and shares on-call duty.
+   - House Tutor (Honorary) — assigned per block/floor from
+     faculty; provides academic mentoring in residence.
+   - Hall Office — clerk, accounts assistant, security
+     supervisor, caretaker, cleaners, cooks (mess staff).
+
+4. CENTRAL COORDINATION
+   The Provosts report administratively to the
+   Vice-Chancellor through the Proctor (Section A) for
+   student-discipline matters, and to the Treasurer
+   (Section A) for mess accounts (mess_management.txt).
+
+5. PRIVATE HOUSING (MESS OUTSIDE CAMPUS)
+   Students not in halls may live in private messes in the
+   areas surrounding the campus. The University does not
+   operate these messes but maintains a registration list;
+   misbehavior from unregistered messes is still actionable
+   under Section J (the University claims jurisdiction over
+   enrolled students' conduct affecting the University's
+   reputation).
+
+================================================================
+END OF FILE
+================================================================

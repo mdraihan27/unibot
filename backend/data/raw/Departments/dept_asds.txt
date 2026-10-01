@@ -1,0 +1,81 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://asds.just.edu.bd/
+
+================================================================
+DEPARTMENT OF APPLIED STATISTICS AND DATA SCIENCE
+================================================================
+Faculty: Faculty of Science
+
+1. CHAIRMAN
+   Name: Prof. Dr. Tania Chowdhury (SYNTHETIC)
+   Title: Chairman, Department of Applied Statistics and Data Science
+   Designation: Professor
+   Email: tania.chowdhury@asds.just.edu.bd
+   Phone: +880-421-61857
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Science
+
+2. DEPARTMENT OVERVIEW
+   Established: 2019
+   Degree Awarded: B.Sc. (Hons) in Applied Statistics and Data Science
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://asds.just.edu.bd/
+   Department Office Email: office.asds@just.edu.bd
+   Department Office Phone: +880-421-61857 (main line; individual
+                              faculty extensions vary)
+
+   One of the newer departments at JUST, reflecting growing demand
+   for data science and statistical analysis skills. Coordinates
+   cross-listed courses with the CSE department for machine
+   learning content.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Mr. Nurul Alam — Lecturer
+     Email: nurul.alam@asds.just.edu.bd  |  Phone: +880-421-61864
+   - Prof. Dr. Sabina Sarkar — Professor
+     Email: sabina.sarkar@asds.just.edu.bd  |  Phone: +880-421-61871
+   - Prof. Dr. Rezaul Karim — Professor
+     Email: rezaul.karim@asds.just.edu.bd  |  Phone: +880-421-61878
+   - Dr. Rumana Haque — Associate Professor
+     Email: rumana.haque@asds.just.edu.bd  |  Phone: +880-421-61885
+   - Dr. Golam Chowdhury — Associate Professor
+     Email: golam.chowdhury@asds.just.edu.bd  |  Phone: +880-421-61892
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

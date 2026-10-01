@@ -1,0 +1,72 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+EXAMINATION CONDUCT RULES AND MALPRACTICE
+=========================================
+
+1. EXAMINATION ENTRY
+   - Admit card: issued by the Controller of Examinations via
+     the student portal after dues clearance (Section I).
+   - Student ID card must be shown at the room door; without
+     both, entry is refused.
+   - Seating is per the published seat plan; students must sit
+     in the assigned seat.
+
+2. PERMITTED AND PROHIBITED MATERIALS
+   Permitted: pens, pencils, ruler, approved calculator (for
+     courses where announced), geometry box.
+   Prohibited: mobile phones/smart devices of any kind, smart
+     watches, notes, books, programmable devices unless
+     announced, any communication with another candidate.
+   Any prohibited item found, whether used or not, is
+   malpractice.
+
+3. CONDUCT DURING THE EXAMINATION
+   - No entry after 30 minutes from the start; no exit during
+     the first 60 minutes or the last 15 minutes.
+   - Scripts must be signed on the attendance sheet.
+   - Raising papers, looking at another's script, or passing
+     materials constitutes malpractice.
+   - Invigilators' instructions are binding; arguing with an
+     invigilator is itself a reportable offense.
+
+4. MALPRACTICE — PENALTIES (clause 6.9)
+   Finding                                   Penalty
+   ------------------------------------------------------------
+   Possession of prohibited material        F in the course;
+                                            disciplinary case
+   Copying / communication                   F in the course +
+                                            suspension per
+                                            Section J
+   Impersonation (sitting for another)       F + expulsion
+                                            (Section J)
+   Forging signature / document              Expulsion
+   Leaking question paper                    Expulsion + legal
+                                            referral
+
+   The malpractice committee (chaired by the Proctor, with a
+   nominee of the department and a Controller of Examinations
+   representative) hears the case and recommends penalties;
+   the Vice-Chancellor approves. The full disciplinary
+   process and appeal route is in Section J.
+
+5. ILLNESS DURING EXAMINATION
+   A student taken ill mid-examination leaves under
+   invigilator supervision and may apply for an Incomplete
+   (grading_policy.txt §2) with the Medical Centre certificate.
+
+6. EXAMINATION SCHEDULE CONFLICTS
+   Two examinations scheduled at the same time are resolved by
+   the Controller of Examinations, which reschedules one to a
+   makeup slot within the examination period.
+
+================================================================
+END OF FILE
+================================================================

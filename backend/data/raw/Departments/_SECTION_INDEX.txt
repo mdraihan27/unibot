@@ -1,0 +1,123 @@
+DOCUMENT TYPE: Section Index
+SECTION: D — Departments
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG system testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+SECTION D — FILE INDEX (38 department files)
+================================================================
+
+FACULTY OF ENGINEERING AND TECHNOLOGY (7)
+  dept_cse.txt                Computer Science and Engineering
+  dept_ipe.txt                Industrial and Production Engineering
+  dept_pme.txt                Petroleum and Mining Engineering
+  dept_che.txt                Chemical Engineering
+  dept_eee.txt                Electrical and Electronic Engineering
+  dept_bme.txt                Biomedical Engineering
+  dept_te.txt                 Textile Engineering
+
+FACULTY OF BIOLOGICAL SCIENCE AND TECHNOLOGY (5)
+  dept_mb.txt                 Microbiology
+  dept_fmb.txt                Fisheries and Marine Bioscience
+  dept_gebt.txt               Genetic Engineering and Biotechnology
+  dept_phm.txt                Pharmacy
+  dept_bmb.txt                Biochemistry and Molecular Biology
+
+FACULTY OF APPLIED SCIENCE AND TECHNOLOGY (4)
+  dept_est.txt                Environmental Science and Technology
+  dept_nft.txt                Nutrition and Food Technology
+  dept_fe.txt                 Food Engineering (fka Agro Product
+                               Processing Technology — see naming note
+                               inside the file)
+  dept_cdm.txt                Climate and Disaster Management
+
+FACULTY OF HEALTH SCIENCE (3)
+  dept_pess.txt                Physical Education and Sports Science
+  dept_ptr.txt                 Physiotherapy and Rehabilitation
+  dept_nhs.txt                 Nursing and Health Science
+
+FACULTY OF ARTS AND SOCIAL SCIENCE (1)
+  dept_english.txt             English
+
+FACULTY OF SCIENCE (4)
+  dept_physics.txt             Physics
+  dept_chemistry.txt           Chemistry
+  dept_mathematics.txt         Mathematics
+  dept_asds.txt                Applied Statistics and Data Science
+
+FACULTY OF BUSINESS STUDIES (4)
+  dept_ais.txt                 Accounting and Information Systems
+  dept_management.txt          Management
+  dept_fb.txt                  Finance and Banking
+  dept_marketing.txt           Marketing
+
+FACULTY OF VETERINARY MEDICINE (10)
+  dept_vet_medicine_surgery_theriogenology.txt   (Major dept. — DVM core)
+  dept_vet_microbiology_hygiene.txt
+  dept_vet_anatomy_histology.txt
+  dept_vet_pharmacology.txt
+  dept_vet_physiology_biochemistry.txt
+  dept_vet_animal_breeding_genetics.txt
+  dept_vet_dairy_poultry_science.txt
+  dept_vet_pathology_parasitology.txt
+  dept_vet_animal_science_nutrition.txt
+  dept_vet_agricultural_economics.txt
+
+TOTAL: 38 departments, matching the corrected count from Section B.
+
+================================================================
+WHAT EACH DEPARTMENT FILE CONTAINS
+================================================================
+  1. Chairman — name, designation, email, phone, term, reporting line
+  2. Department overview — established year, degree awarded, duration,
+     website, office contact, brief intro
+  3. Sample faculty roster (4-9 additional synthetic faculty members
+     per department, varied designations)
+  4. Departmental Academic Committee description
+  5. Student Adviser system explanation
+  6. How to contact the department (routing guidance)
+  7. Department-specific notes where relevant (accreditation,
+     clinical placements, naming history, DVM program structure)
+
+================================================================
+KNOWN DATA-GENERATION LIMITATIONS (BE AWARE FOR RAG TESTING)
+================================================================
+1. NAME COLLISIONS: With ~230 total synthetic faculty names generated
+   from a deliberately small, deterministic name pool, a small number
+   (~14) of full name collisions exist across DIFFERENT departments
+   (e.g., two unrelated departments each happening to have a "Prof.
+   Dr. Salma Ahmed"). This is a known artifact of small pool size,
+   not a data integrity bug — no single department repeats a name
+   internally, and no Chairman name repeats across departments.
+
+2. ROSTER COMPLETENESS: Faculty rosters are explicitly marked
+   "SAMPLE" in each file — they represent 4 to 9 synthetic entries
+   per department, not necessarily a complete department faculty
+   list. A real department may have more (or fewer) actual faculty
+   members than shown here.
+
+3. DVM PROGRAM STRUCTURE: The 10 Veterinary Medicine departments
+   collectively deliver ONE degree program (DVM, 5 years including
+   internship), unlike other faculties where each department
+   delivers its own distinct degree. Only
+   dept_vet_medicine_surgery_theriogenology.txt is marked as the
+   "Major Department"; the other 9 are marked "Contributing
+   Department." A RAG system should understand these 10 files
+   describe ONE academic program taught across 10 departments, not
+   10 separate degree programs.
+
+================================================================
+NEXT SECTION
+================================================================
+Section E — Academic Structure (8-semester curricula per
+department), Academic Ordinance, Grading Policy, Examination
+Ordinance, Attendance Policy.
+
+This will be the largest section yet if built at full depth for
+all 38 departments (38 x 8 semesters = 304 semester-course-lists).
+Recommend discussing scope before generation: e.g., full depth for
+a representative sample of departments (one per faculty) plus a
+structural skeleton for the rest, similar to the earlier scoping
+conversation for this corpus.
+================================================================

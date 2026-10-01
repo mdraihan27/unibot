@@ -1,0 +1,78 @@
+DOCUMENT TYPE: Hall Rules Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALL RULES AND REGULATIONS
+==========================
+
+1. GENERAL CONDUCT
+   - Residents are subject to ALL University rules (Section E
+     academic rules; Section J disciplinary code) plus these
+     hall rules. A hall offence may also be a University
+     offence; the Provost reports University offences to the
+     Proctor (Section A).
+   - The student ID card must be shown at the hall gate on
+     entry after 8 PM.
+   - Ragging is absolutely prohibited; see Section J for the
+     definition, reporting route, and penalties.
+
+2. VISITORS
+   - Visitors (non-resident students): lobby sitting area
+     only, 9 AM - 8 PM, entry against own ID card in the
+     gate register.
+   - Visitors of the opposite gender: lobby/common room of
+     the designated visitor area only; entry 9 AM - 8 PM;
+     never in living blocks, dining hall, or prayer rooms.
+   - Overnight guests: only in the hall guest room booked per
+     hall_common_facilities.txt; residents may not host
+     overnight guests in rooms.
+
+3. QUIET HOURS AND CURFEW
+   - Quiet hours: 8 PM - 8 AM for study; loud music/instruments
+     prohibited outside common rooms at all times.
+   - Entry curfew: residents enter by 10 PM; the gate register
+     records late entry, which the Provost reviews weekly.
+   - Repeated late entry (3+ in a month) is reported to
+     guardians and becomes a hall offence.
+
+4. PROHIBITED IN HALL ROOMS
+   - Cooking appliances (except electric kettle where the hall
+     permits), room heaters
+   - Firearms, knives, explosives of any kind
+   - Illegal substances (alcohol, narcotics) — Section J
+     penalties apply
+   - Pets
+
+5. ROOM INVENTORY AND CARE
+   - Each seat comes with an inventory (bed, mattress, desk,
+     chair, bookshelf, fan, light) signed for at allotment.
+   - Inter-room furniture transfer is prohibited and treated
+     as theft/damage at clearance.
+   - Room painting, fixtures, or electrical modification
+     require the Caretaker's written approval.
+
+6. ELECTED BODIES AND MEETINGS
+   - Hall Union / Residents' Committee elections each
+     semester under the supervision of the Provost.
+   - General meetings require the Provost's prior approval;
+     political party activity inside the hall compound is
+     prohibited.
+
+7. REPORTING ROUTES
+   Issue                    First contact        Then
+   ------------------------------------------------------------
+   Room/mess complaint      Duty Asst. Provost  Provost
+   Security incident        Security desk 24 hr Proctor
+   Ragging/harassment       Provost (any hour)  Section J
+   Medical emergency        Duty Asst. Provost  Medical Ctr.
+   Electric/water fault     Hall office         Chief Engineer
+
+================================================================
+END OF FILE
+================================================================

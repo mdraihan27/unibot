@@ -1,0 +1,91 @@
+DOCUMENT TYPE: Academic Ordinance Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ACADEMIC ORDINANCE — OVERVIEW AND LEGAL BASIS
+=============================================
+
+1. LEGAL BASIS
+   The academic ordinances of Jashore University of Science and
+   Technology (JUST) derive their authority from the
+   University Act and Statutes (see Section A,
+   university_act_and_statutes_summary.txt). No academic rule
+   in this section may contradict the University Act; where a
+   conflict exists, the Act prevails.
+
+   The principal ordinance governing undergraduate study is
+   the "Academic Ordinance for the Undergraduate Programmes"
+   (the "Ordinance"), administered by the Registrar's Office
+   (Section A) and the Office of the Controller of
+   Examinations (Section A), under the authority of the
+   Academic Council.
+
+2. STRUCTURE OF THE ORDINANCE
+   The Ordinance is organized into ten numbered sections:
+     Section 1  General provisions, definitions, applicability
+     Section 2  Admission requirements and procedures
+     Section 3  Semester system, credit hours, academic year
+     Section 4  Course registration and enrolment
+     Section 5  Grading and evaluation
+     Section 6  Examinations and assessment
+     Section 7  Academic standing: probation, suspension,
+                termination, leave, readmission
+     Section 8  Transfer credit and waiver
+     Section 9  Thesis, project and internship
+     Section 10 Degree requirements and award
+
+   Each section contains numbered clauses (e.g., 3.4.1) and
+   lettered sub-clauses (e.g., 3.4.1(a)). When citing a rule,
+   ALWAYS cite the full clause number; partial citations are
+   ambiguous because sub-clause (a) of clause 3.4.1 and
+   clause 3.4.1(a) read as identical shorthand but refer to
+   different nesting levels in some legacy documents.
+
+3. AMENDMENT HISTORY
+   - Original ordinance: adopted on foundation of the
+     university; applied to the first undergraduate sessions.
+   - Amendment I: grade-table revision (percentile letter
+     grade table replaced by the current fixed-scale table).
+   - Amendment II — "II Examination System, Effective from
+     Session 2015-16": replaced the original examination
+     structure (single final examination per course) with the
+     current incourse + final examination system, revised the
+     marks distribution, and introduced the supplementary
+     examination provisions in supplementary_exams.txt.
+     Status: CURRENT.
+   - Archive: the pre-2015-16 examination system is retained
+     for records of students who enrolled before 2015-16 and
+     for archival completeness ONLY. It does NOT apply to any
+     current or future student.
+
+4. HOW TO USE THIS SECTION (FOR HUMANS AND FOR RAG RETRIEVAL)
+   - Every rule file in this section is self-contained but
+     cross-referenced; the index (_SECTION_INDEX.txt) maps
+     topics to files.
+   - Where a file in this section references "the Ordinance",
+     it means the clause set summarized in that file, not a
+     separate document.
+   - Rules in this section apply to ALL undergraduate
+     students of all faculties unless a file explicitly
+     scopes an exception (e.g., DVM programme rules).
+   - Faculty-specific or programme-specific deviations
+     (e.g., DVM credit totals) are stated in the relevant
+     rule file with the programme named.
+
+5. INTERPRETATION AND APPEALS
+   - Interpretation of the Ordinance rests with the Academic
+     Council, on advice of the Registrar.
+   - A student may appeal an academic decision (grade,
+     attendance bar, malpractice finding, standing decision)
+     per the appeals route stated in the relevant rule file
+     in this section.
+
+================================================================
+END OF FILE
+================================================================

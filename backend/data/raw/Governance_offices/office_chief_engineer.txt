@@ -1,0 +1,50 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/engineer
+
+================================================================
+OFFICE OF THE CHIEF ENGINEER
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Chief Engineer
+   Name: Engr. Kamrul Hasan (SYNTHETIC)
+   Email: chiefengineer@just.edu.bd
+   Phone (Office): +880-421-61330
+   Extension: 114
+   Office Location: Engineering Services Building, Ground Floor
+   Office Hours: Sunday-Thursday: 9:00 AM - 5:00 PM
+   Reports To: Vice-Chancellor (via Director of PDW for major works)
+
+2. PRIMARY RESPONSIBILITIES
+  - Physical maintenance of campus buildings, utilities, and engineering services
+  - Electrical, water, and civil maintenance across campus
+  - Coordinates with Halls and Departments on maintenance requests
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Hall/building maintenance complaints
+  - Electrical or plumbing issues in academic buildings
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+================================================================
+END OF FILE
+================================================================

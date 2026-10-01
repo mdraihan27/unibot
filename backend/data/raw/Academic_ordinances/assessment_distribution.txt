@@ -1,0 +1,86 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ASSESSMENT AND MARKS DISTRIBUTION
+=================================
+
+1. CURRENT SYSTEM (Amendment II — effective from session
+   2015-16; clause 6.2)
+   Every credit-bearing course is assessed in two parts:
+
+   Component               Marks     Nature
+   ------------------------------------------------------------
+   Incourse (continuous)   40        Class tests, tutorials,
+                                     assignments, attendance
+   Final examination       60        Semester-end examination
+   ------------------------------------------------------------
+   Total                   100
+
+2. INCOURSE BREAKDOWN (standard default)
+   Component                         Marks (of the 40)
+   ------------------------------------------------------------
+   Class tests / midterm assessments   20  (best 2 of 3 tests)
+   Tutorial / assignments / quizzes    10
+   Attendance                          10  (see §4 below)
+
+   A department may redistribute within the 40-mark incourse
+   block per its approved assessment policy filed with the
+   Controller of Examinations, but the total must remain 40.
+
+3. FINAL EXAMINATION (60 marks)
+   - Conducted centrally by the Controller of Examinations
+     (Section A) per the published routine (Section K).
+   - Duration: typically 3 hours for a 3-credit theory course;
+     shorter for 1–2 credit courses.
+   - Questions cover the full syllabus; at least 20% of marks
+     come from the portion after the last class test unless
+     the department files a different split.
+
+4. ATTENDANCE MARKS (within the 10-mark attendance component)
+   Attendance %           Marks (of 10)
+   ------------------------------------------------------------
+   90% and above          10
+   85–89%                  9
+   80–84%                  8
+   75–79%                  7
+   below 75%              0  — AND the student is barred from
+                                 the final exam (see
+                                 attendance_policy.txt)
+
+5. PRACTICAL / LABORATORY COURSES
+   Assessed by continuous lab evaluation (quizzes, reports,
+   final lab test) totaling 100, split per the department's
+   filed assessment policy; no separate central final
+   examination unless the course is coded as a theory course
+   with a lab component.
+
+6. THESIS / PROJECT / INTERNSHIP
+   Assessed per thesis_project_guidelines.txt and
+   internship_guidelines.txt (rubric-based, panel evaluation).
+
+7. SUPPRESSED COMPONENT
+   Class tests missed for valid documented reasons are excused
+   and the remaining tests re-weighted; undocumented absences
+   score zero on the missed test. There is no makeup class
+   test after the final examination schedule is published.
+
+================================================================
+PRE-2015-16 SYSTEM (SUPERSEDED — ARCHIVE ONLY)
+================================================================
+   Under the original ordinance, each course carried a single
+   final examination of 100 marks with 25% sessional/internal
+   assessment. This system applied to students admitted before
+   the 2015-16 session and is retained only for their records.
+   It does NOT apply to current students.
+================================================================
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,59 @@
+DOCUMENT TYPE: Section Index
+SECTION: B — Faculties
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG system testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+SECTION B — FILE INDEX (8 files)
+================================================================
+
+  faculty_engineering_technology.txt        7 departments
+  faculty_biological_science_technology.txt 5 departments
+  faculty_applied_science_technology.txt    4 departments
+  faculty_health_science.txt                3 departments
+  faculty_arts_social_science.txt           1 department
+  faculty_science.txt                       4 departments
+  faculty_business_studies.txt              4 departments
+  faculty_veterinary_medicine.txt           10 departments
+
+TOTAL DEPARTMENTS ACROSS ALL FACULTIES: 38
+  (7+5+4+3+1+4+4+10 = 38)
+
+================================================================
+IMPORTANT COUNT CORRECTION
+================================================================
+Earlier in this project, department count was stated as "26." The
+actual count, based on the real JUST faculty/department list you
+provided, is 38 departments across 8 faculties (after excluding the
+"ABCD FOR Testing Purpose" placeholder entry under Veterinary
+Medicine, which is flagged as a likely test artifact rather than a
+real department — see faculty_veterinary_medicine.txt Section 8).
+
+If the "ABCD FOR Testing Purpose" entry were counted as real, the
+total would be 39. This corpus treats it as excluded (38 real
+departments) but documents the discrepancy rather than silently
+resolving it, since only the live site can confirm which is
+correct.
+
+Section D (Departments, to be generated next) will therefore
+contain 38 department files, not 26. Flagging this now so the
+correction is visible before that section is built.
+
+================================================================
+WHAT EACH FACULTY FILE CONTAINS
+================================================================
+  - Dean's name, email, phone, office location, term structure
+  - Vice-Dean/Associate Dean (where applicable)
+  - Faculty establishment year and faculty-level contact
+  - Full list of departments under that faculty
+  - Department website URLs (real subdomains, from source data)
+  - Dean's Office responsibilities and when to contact it vs. the
+    department directly
+
+================================================================
+NEXT SECTION
+================================================================
+Section C or D — Departments (38 files), OR Institutes/Research
+Centres, OR Halls of Residence — awaiting direction on build order.
+================================================================

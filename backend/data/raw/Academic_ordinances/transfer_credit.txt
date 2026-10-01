@@ -1,0 +1,56 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+TRANSFER CREDIT AND WAIVER
+==========================
+
+1. TRANSFER FROM OTHER UNIVERSITIES (clause 8.2)
+   - A student transferring from another recognized university
+     applies to the Registrar (Section A) with transcripts and
+     course syllabi.
+   - The departmental credit evaluation committee (Chairman +
+     two senior faculty) maps each completed course to a JUST
+     course; credit is granted where content overlap is at
+     least 80% and the grade earned is C or better (grade
+     points do NOT transfer; transferred courses appear as
+     "T" on the transcript).
+   - Maximum transferable credit: 50% of total programme
+     credits.
+   - The student enters at the semester determined by the
+     credited load and must complete at least 50% of the
+     programme credits at JUST to earn the JUST degree.
+
+2. INTER-JUST PROGRAMME TRANSFER
+   - Current JUST students may apply for inter-departmental
+     transfer after two semesters with CGPA 3.00 or above, in
+     the annual window published by the Registrar.
+   - Transfer depends on seat availability in the target
+     department; credited courses apply per the equivalence
+     list of the target department.
+
+3. COURSE WAIVER (EXEMPTION WITHOUT CREDIT)
+   Where content is similar but below the 80% threshold, the
+   department may WAIVE a prerequisite without awarding credit;
+   the student must then complete replacement credits to reach
+   the programme total (degree_requirements.txt).
+
+4. APPEAL
+   Credit evaluation decisions may be appealed to the Dean
+   within 10 working days; the Dean's decision is final.
+
+5. INTERNATIONAL STUDENTS
+   Transfers and credit evaluation for international students
+   are coordinated with the International Service Centre
+   (Section A); equivalence follows the same 80% rule with
+   certified English translations of documents.
+
+================================================================
+END OF FILE
+================================================================

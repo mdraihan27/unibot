@@ -1,0 +1,87 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://appt.just.edu.bd/
+
+================================================================
+DEPARTMENT OF FOOD ENGINEERING
+================================================================
+Faculty: Faculty of Applied Science and Technology
+
+1. CHAIRMAN
+   Name: Prof. Dr. Rafiqul Alam (SYNTHETIC)
+   Title: Chairman, Department of Food Engineering
+   Designation: Professor
+   Email: rafiqul.alam@appt.just.edu.bd
+   Phone: +880-421-61772
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Applied Science and Technology
+
+2. DEPARTMENT OVERVIEW
+   Established: 2013
+   Degree Awarded: B.Sc. Engg. in Food Engineering
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://appt.just.edu.bd/
+   Department Office Email: office.appt@just.edu.bd
+   Department Office Phone: +880-421-61772 (main line; individual
+                              faculty extensions vary)
+
+   Formerly named 'Agro Product Processing Technology' — the
+   website subdomain (appt.just.edu.bd) still reflects the
+   original name. Covers food processing engineering, packaging,
+   and agro-industrial systems.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Ms. Farida Sarkar — Lecturer
+     Email: farida.sarkar@appt.just.edu.bd  |  Phone: +880-421-61779
+   - Mr. Shahidul Karim — Lecturer
+     Email: shahidul.karim@appt.just.edu.bd  |  Phone: +880-421-61786
+   - Prof. Dr. Nazma Haque — Professor
+     Email: nazma.haque@appt.just.edu.bd  |  Phone: +880-421-61793
+   - Prof. Dr. Kamrul Chowdhury — Professor
+     Email: kamrul.chowdhury@appt.just.edu.bd  |  Phone: +880-421-61800
+   - Dr. Salma Kader — Associate Professor
+     Email: salma.kader@appt.just.edu.bd  |  Phone: +880-421-61807
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+7. NAMING NOTE
+   This department was renamed from 'Agro Product Processing
+   Technology' to 'Food Engineering.' Some older University records,
+   alumni certificates, and the website subdomain may still
+   reference the former name. A RAG system should treat both names
+   as referring to the same department.
+
+================================================================
+END OF FILE
+================================================================

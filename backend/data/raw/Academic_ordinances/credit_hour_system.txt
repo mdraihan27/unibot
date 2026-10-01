@@ -1,0 +1,69 @@
+DOCUMENT TYPE: Academic Rule Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+CREDIT HOUR SYSTEM
+==================
+
+1. DEFINITION OF ONE CREDIT HOUR (clause 3.4.1)
+   One credit hour = one contact hour of instruction per week
+   for one semester, where:
+   - LECTURE course: 1 credit = 1 hour/week of lecture.
+   - LABORATORY course: 1 credit = 3 hours/week of laboratory
+     work (including sessional evaluation).
+   - SESSIONAL/PROJECT work: credit assigned per approved
+     curriculum; typically counted as laboratory-equivalent.
+
+2. CONTACT HOUR WEEKLY PLAN
+   A 3-credit lecture course with a 1-credit lab would meet:
+     3 lecture hours + 3 laboratory hours per week.
+
+3. TYPES OF COURSES AND CREDIT WEIGHTS
+   Type                    Credits  Nature
+   ------------------------------------------------------------
+   Theory (lecture)        per code Lectures, midterms, final
+   Laboratory              per code 3-hour weekly lab sessions
+   Sessional/design        per code Studio/design evaluation
+   Thesis/Project          4–6      Final-year capstone
+   Internship              3–4      Supervised placement
+   Viva-voce               0–1      Attached to thesis/project
+
+4. TOTAL PROGRAMME CREDITS (undergraduate)
+   Programme                          Total Credits
+   ------------------------------------------------------------
+   B.Sc. Engg. (4-year)               160
+   B.Sc. (Hons) / B.Pharm / similar   150–160 (per approved
+                                      curriculum; see Section G)
+   BBA                                130–140
+   B.A. (Hons) English                130
+   DVM (Doctor of Veterinary Medicine) 5-year, 200+ per
+                                      approved curriculum —
+                                      governed by its own DVM
+                                      schedule within the
+                                      Ordinance
+   Specific per-department totals and the 8-semester plan are
+   in Section G (course catalog) and the department files
+   (Section D).
+
+5. HALF-CREDIT COURSES
+   Not normally offered. All courses carry whole credit hours
+   (1, 2, 3, or 4) except viva-voce (which may carry 0 credit
+   as a required non-credit assessment).
+
+6. AUDIT (NON-CREDIT) ENROLMENT
+   A student may audit a course with the Chairman's
+   permission. An audited course appears on the transcript
+   with the grade "AU" (no grade points, not counted in CGPA).
+   The auditor must meet the same attendance requirement
+   (attendance_policy.txt) unless the Chairman grants written
+   exemption.
+
+================================================================
+END OF FILE
+================================================================

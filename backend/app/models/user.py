@@ -40,6 +40,12 @@ class UserModel(BaseModel):
 
     id: Optional[PyObjectId] = Field(default=None, alias="_id")
 
+    # ── Student Profile ──────────────────────────────────────────────────────
+    name: str = ""
+    roll: str = ""
+    department: str = ""
+    faculty: str = ""
+
     # ── Identity ─────────────────────────────────────────────────────────────
     email: EmailStr
     hashed_password: str

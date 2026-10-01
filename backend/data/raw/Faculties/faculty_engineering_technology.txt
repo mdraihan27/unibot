@@ -1,0 +1,82 @@
+DOCUMENT TYPE: Faculty Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/faculties/fet
+
+================================================================
+FACULTY OF ENGINEERING AND TECHNOLOGY
+================================================================
+
+1. DEAN
+   Name: Prof. Dr. Zakir Hossain (SYNTHETIC)
+   Title: Dean, Faculty of Engineering and Technology
+   Email: dean.fet@just.edu.bd
+   Phone: +880-421-61500
+   Office Location: Faculty of Engineering and Technology Building, 4th Floor
+   Term: 2 years (rotating among eligible senior professors within
+         the faculty, per Academic Council seniority rules)
+   Reports To: Vice-Chancellor; represents the Faculty on the
+               Academic Council
+
+2. VICE-DEAN / ASSOCIATE DEAN
+   Name: Prof. Dr. Shahriar Kabir (SYNTHETIC)
+   Email: vicedean.fet@just.edu.bd
+
+3. FACULTY ESTABLISHMENT
+   Established: 2007 (founding faculty of the University)
+   Faculty Office Location: Faculty of Engineering and Technology Building, 4th Floor
+   Faculty Office Email: faculty.fet@just.edu.bd
+   Faculty Office Phone: +880-421-61500 (ext. varies by department)
+
+4. DEPARTMENTS UNDER THIS FACULTY (7)
+  1. Computer Science and Engineering (CSE)
+  2. Industrial and Production Engineering (IPE)
+  3. Petroleum and Mining Engineering (PME)
+  4. Chemical Engineering (ChE)
+  5. Electrical and Electronic Engineering (EEE)
+  6. Biomedical Engineering (BME)
+  7. Textile Engineering (TE)
+
+5. DEPARTMENT WEBSITES
+  - Computer Science and Engineering: https://cse.just.edu.bd/
+  - Industrial and Production Engineering: https://ipe.just.edu.bd/
+  - Petroleum and Mining Engineering: https://pme.just.edu.bd/
+  - Chemical Engineering: https://che.just.edu.bd/
+  - Electrical and Electronic Engineering: https://eee.just.edu.bd/
+  - Biomedical Engineering: https://bme.just.edu.bd/
+  - Textile Engineering: https://te.just.edu.bd/
+
+6. DEAN'S OFFICE RESPONSIBILITIES
+   - Coordinates curriculum matters across departments within the
+     faculty before submission to the Academic Council
+   - Chairs the Faculty Academic Committee (all department chairmen
+     within the faculty)
+   - Approves faculty-level examination committee compositions on
+     recommendation of departments
+   - Represents the faculty in inter-faculty resource allocation
+     discussions
+   - First point of appeal for department-level academic disputes
+     before escalation to the Academic Council
+
+7. HOW TO CONTACT THE DEAN'S OFFICE
+   For matters specific to a single department, contact that
+   department's Chairman directly first (see Section D department
+   files). The Dean's Office is the right contact for:
+     - Cross-department curriculum questions within this faculty
+     - Appeals of department-level academic decisions
+     - Faculty-wide announcements and scheduling coordination
+
+8. NOTE
+   This is the largest faculty by department count (7 departments)
+   and is the University's founding faculty, established in the
+   same year as JUST itself.
+
+================================================================
+END OF FILE
+================================================================

@@ -1,0 +1,70 @@
+DOCUMENT TYPE: Hall Procedure Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALL CLEARANCE PROCEDURE
+========================
+
+1. WHEN CLEARANCE IS REQUIRED
+   - Graduation (part of final clearance, degree_requirements
+     .txt, Section E)
+   - Withdrawal, suspension, or termination (Sections E/J)
+   - Leave of one semester or more (the seat is vacated —
+     leave_of_absence.txt)
+   - Inter-hall transfer (rare; Provost-to-Provost memo)
+
+2. CLEARANCE STEPS
+   Step   Where              What is checked
+   ------------------------------------------------------------
+   1      Room / Block       Furniture inventory complete
+                             and undamaged; personal items
+                             removed
+   2      Mess office        Mess bill settled to date;
+                             meal card / token returned
+   3      Hall office        Keys + ID-related hall items
+                             returned; no pending hall
+                             offence
+   4      Accounts           Advance deposit adjusted;
+                             damage charges (if any) paid
+                             (Section I payment route)
+   5      Provost            Signs the Hall Clearance
+                             Certificate
+
+3. DAMAGE CHARGES (synthetic standard rates)
+   Item                    Charge (BDT)
+   ------------------------------------------------------------
+   Mattress                2,500
+   Wooden bed frame        3,500
+   Study desk              2,000
+   Chair                   800
+   Bookshelf               1,200
+   Fan / light fitting     1,500 (+ installation)
+   Room repainting (if     1,000
+   unauthorized painting)
+   Fair wear and tear is not charged; the Accounts Assistant
+   assesses jointly with the Caretaker, and the resident may
+   appeal the assessment to the Provost within 5 working days.
+
+4. TIMELINE
+   - Final-semester students: complete clearance within 10
+     working days of the last final examination.
+   - Others: within 5 working days of vacating.
+   - The signed clearance certificate is surrendered to the
+     Registrar's office for degree processing or to the
+     department for leave/withdrawal records.
+
+5. FAILURE TO CLEAR
+   Uncleared dues become a registration hold (Section E —
+   course_registration.txt §6) and appear on the student's
+     financial record (Section I); degrees and transcripts
+     are withheld until cleared (Section H).
+
+================================================================
+END OF FILE
+================================================================

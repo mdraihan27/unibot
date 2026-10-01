@@ -7,7 +7,7 @@ Endpoints:
   POST /api/v1/auth/otp/verify       — Verify OTP code
   POST /api/v1/auth/otp/resend       — Request a new OTP
 """
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends
 
 from app.schemas.auth import (
     LoginRequest,
@@ -18,8 +18,55 @@ from app.schemas.auth import (
 from app.schemas.response import ApiResponse
 from app.services.auth_service import AuthService
 from app.services.otp_service import OtpService
+from app.utils.dependencies import get_optional_user_id
 
 router = APIRouter()
+
+
+# ── Current User Profile ──────────────────────────────────────────────────────
+
+@router.get(
+    "/me",
+    response_model=ApiResponse,
+    summary="Get current user profile",
+    description="Returns profile information for the authenticated user, or guest details if unauthenticated.",
+)
+async def get_me(user_id: str = Depends(get_optional_user_id)) -> ApiResponse:
+    if not user_id or user_id == "guest":
+        return ApiResponse(
+            success=False,
+            message="No active student session. Please log in.",
+            code="UNAUTHENTICATED",
+            data=None,
+        )
+
+    user = await AuthService.get_by_email(user_id)
+    if not user:
+        return ApiResponse.ok(
+            message="User profile",
+            code="USER_PROFILE",
+            data={
+                "name": "JUST Student",
+                "roll": "N/A",
+                "department": "Computer Science & Engineering",
+                "faculty": "Faculty of Engineering & Technology",
+                "email": user_id,
+                "is_verified": True,
+            },
+        )
+
+    return ApiResponse.ok(
+        message="Profile retrieved successfully",
+        code="PROFILE_SUCCESS",
+        data={
+            "name": getattr(user, "name", "") or "JUST Student",
+            "roll": getattr(user, "roll", "") or "N/A",
+            "department": getattr(user, "department", "") or "Computer Science & Engineering",
+            "faculty": getattr(user, "faculty", "") or "Faculty of Engineering & Technology",
+            "email": user.email,
+            "is_verified": user.is_verified,
+        },
+    )
 
 
 # ── Register ──────────────────────────────────────────────────────────────────

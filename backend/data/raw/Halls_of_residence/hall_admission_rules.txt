@@ -1,0 +1,74 @@
+DOCUMENT TYPE: Hall Procedure Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+HALL ADMISSION RULES AND SEAT ALLOCATION
+========================================
+
+1. ELIGIBILITY
+   a. Any enrolled student (Sections D/E) may apply for a
+      hall seat; priority order:
+        P1  First-year students from outside the district
+        P2  Students with CGPA-based merit renewal (continuing)
+        P3  Final-year students from outside the district
+        P4  Other students (district residents, local)
+   b. A student with a pending disciplinary case (Section J)
+      or unpaid hall dues (Section I) is NOT eligible for
+      admission or renewal.
+   c. Married students: single seats only; family
+      accommodation is not provided in undergraduate halls.
+
+2. APPLICATION WINDOW
+   - New students: with the admission/enrolment process;
+      seats are allocated before classes begin. See the
+      admission notice (Section K) for dates.
+   - Continuing students: a renewal application each year
+      before the start of the Fall semester.
+   - Vacant seats mid-year: published by the hall office;
+      applications within 7 days of the notice.
+
+3. ALLOCATION PROCEDURE
+   Step   Actor        Action
+   ------------------------------------------------------------
+   1      Student      Submit application (online portal +
+                      signed paper form to the hall office)
+   2      Hall office  Verify eligibility (dues, discipline,
+                      distance from home district)
+   3      Provost      Approve list per priority order;
+                      publish merit/waiting list
+   4      Student      Pay seat rent + advance mess deposit
+                      (Section I) within 5 working days
+   5      Hall office  Issue seat allotment order and room key
+
+4. WAITING LIST
+   - Published with the merit list; seats vacated within the
+     semester are offered to the waiting list in order.
+   - A waiting-list offer lapses after 3 working days if not
+     accepted with payment.
+
+5. SEAT RENEWAL
+   - Renewable annually; renewal requires satisfactory
+     hall conduct (no unresolved hall offence in the
+     preceding year) and CGPA of 2.00 or above (standing
+     rules, Section E — probation_suspension_termination
+     .txt).
+   - The Provost may withhold renewal for repeated hall-rule
+     violations; the student may appeal to the Proctor
+     (Section A) within 10 working days.
+
+6. VACATION OF SEAT
+   A seat is vacated by: graduation, withdrawal/termination
+   (Section E), leave of more than one semester
+   (leave_of_absence.txt — the seat is NOT held), or
+   expulsion (Section J). Clearance is per
+   hall_clearance_procedure.txt.
+
+================================================================
+END OF FILE
+================================================================

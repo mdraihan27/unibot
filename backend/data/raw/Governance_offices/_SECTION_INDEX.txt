@@ -1,0 +1,73 @@
+DOCUMENT TYPE: Section Index
+SECTION: A — Institutional Identity & Governance / Offices
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG system testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+SECTION A — FILE INDEX (29 files)
+================================================================
+
+IDENTITY DOCUMENTS (4)
+  about_just.txt                          General overview
+  governance_structure.txt                Authority levels, decision flow
+  university_act_and_statutes_summary.txt Legal basis summary
+  citizen_charter.txt                     Service commitments
+
+OFFICES (23) — one file per office, aligned to
+https://just.edu.bd/offices
+  office_vice_chancellor.txt
+  office_pro_vice_chancellor.txt
+  office_treasurer.txt
+  office_registrar.txt
+  office_registrar_public_relations_branch.txt
+  office_ict_cell.txt
+  office_librarian.txt
+  office_proctor.txt
+  office_student_counselling_guidance.txt
+  office_director_accounts.txt
+  office_audit_cell.txt
+  office_director_planning_development_works.txt
+  office_controller_of_examinations.txt
+  office_chief_engineer.txt
+  office_chief_medical_officer.txt
+  office_research_cell.txt
+  office_iqac.txt
+  office_international_service_center.txt
+  office_physical_education.txt
+  office_just_school_and_college.txt
+  office_transport_director.txt
+  office_cyber_centre.txt
+  office_tsc.txt
+
+COMMITTEES (1)
+  complaint_committee.txt
+
+FILES REMAINING FOR THIS SECTION: 0 — this ZIP is complete for
+Section A as scoped.
+
+================================================================
+WHAT'S NOT IN THIS SECTION (comes in later sections)
+================================================================
+  - Faculties and Departments (Section C/D)
+  - Halls of Residence / Provost details (Section F)
+  - Academic ordinances, grading, exams (Section E)
+  - Fees and payment procedures (Section I)
+  - Campus policies: disciplinary, anti-ragging, sexual harassment
+    (Section J) — complaint_committee.txt here in Section A only
+    covers the GENERAL complaint route; specialized policies with
+    their own committees come later.
+  - Certificate/document procedures (Section H)
+  - Calendar (Section K)
+
+================================================================
+DATA GENERATION METHOD NOTE
+================================================================
+All names, emails, phone numbers, room numbers, and office hours in
+this section are synthetically generated for RAG testing purposes.
+Structural facts (which offices exist, their real url slugs under
+just.edu.bd/offices/, the faculty/department list) are aligned to
+the real JUST website structure as provided by the user. Real
+official data should replace this synthetic content before any
+production or public-facing use.
+================================================================

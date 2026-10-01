@@ -1,0 +1,83 @@
+DOCUMENT TYPE: Department Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://mth.just.edu.bd/
+
+================================================================
+DEPARTMENT OF MATHEMATICS
+================================================================
+Faculty: Faculty of Science
+
+1. CHAIRMAN
+   Name: Prof. Dr. Rafiqul Hossain (SYNTHETIC)
+   Title: Chairman, Department of Mathematics
+   Designation: Professor
+   Email: rafiqul.hossain@mth.just.edu.bd
+   Phone: +880-421-61808
+   Term: 2 years (rotating among eligible senior faculty per
+         seniority, subject to Academic Council rules)
+   Reports To: Dean, Faculty of Science
+
+2. DEPARTMENT OVERVIEW
+   Established: 2007
+   Degree Awarded: B.Sc. (Hons) in Mathematics
+   Programme Duration: 4 years (8 semesters)
+   Department Website: https://mth.just.edu.bd/
+   Department Office Email: office.mth@just.edu.bd
+   Department Office Phone: +880-421-61808 (main line; individual
+                              faculty extensions vary)
+
+   One of the University's founding departments. Teaches mandatory
+   Calculus and Linear Algebra service courses across nearly all
+   Engineering, Science, and Business departments in the first
+   two years.
+
+3. FACULTY ROSTER (SAMPLE — additional faculty not listed here may
+   exist; this is a representative synthetic sample, not necessarily
+   the complete department roster)
+   - Prof. Dr. Farida Hasan — Professor
+     Email: farida.hasan@mth.just.edu.bd  |  Phone: +880-421-61815
+   - Dr. Shahidul Ahmed — Associate Professor
+     Email: shahidul.ahmed@mth.just.edu.bd  |  Phone: +880-421-61822
+   - Dr. Nazma Alam — Associate Professor
+     Email: nazma.alam@mth.just.edu.bd  |  Phone: +880-421-61829
+   - Mr. Kamrul Khan — Assistant Professor
+     Email: kamrul.khan@mth.just.edu.bd  |  Phone: +880-421-61836
+   - Ms. Salma Karim — Assistant Professor
+     Email: salma.karim@mth.just.edu.bd  |  Phone: +880-421-61843
+   - Mr. Aminul Hasan — Assistant Professor
+     Email: aminul.hasan@mth.just.edu.bd  |  Phone: +880-421-61850
+
+4. DEPARTMENTAL ACADEMIC COMMITTEE
+   Chaired by the Chairman; includes senior faculty members listed
+   above. Responsible for curriculum review, examination committee
+   formation, and departmental academic policy within the bounds of
+   the University's general Academic Ordinance (see Section E for
+   the ordinance and this department's semester-by-semester
+   academic structure).
+
+5. STUDENT ADVISERS
+   Each batch (admission year) is assigned a Student Adviser from
+   among the department's faculty, typically the Chairman of that
+   batch's Examination Committee. Contact the Department Office to
+   confirm your batch's current adviser.
+
+6. HOW TO CONTACT THIS DEPARTMENT
+   - Academic/curriculum questions: Contact your Student Adviser
+     first, then the Chairman if unresolved.
+   - Administrative matters (transcripts, certificates): See Section
+     H (Procedures) — most such requests route through the Office of
+     the Controller of Examinations, not the Department directly.
+   - Research/lab access: Contact the relevant faculty member
+     directly or the Chairman for general inquiries.
+
+
+================================================================
+END OF FILE
+================================================================

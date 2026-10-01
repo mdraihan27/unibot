@@ -1,0 +1,80 @@
+DOCUMENT TYPE: Governance Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — for RAG testing only.
+EFFECTIVE DATE: 2026-01-01
+
+================================================================
+GOVERNANCE STRUCTURE OF JUST
+================================================================
+
+LEVEL 1 — CEREMONIAL HEAD
+  Chancellor (ex officio, Head of State of Bangladesh per University
+  Act). Presides over Convocation; confers degrees. Not part of daily
+  administration. See https://bangabhaban.gov.bd/ (external, real link
+  referenced by JUST's official site for context only).
+
+LEVEL 2 — CHIEF EXECUTIVE
+  Vice-Chancellor (VC) — chief executive and academic officer.
+  Appointed per the University Act. Chairs the Regent Board and
+  Academic Council. See office_vice_chancellor.txt.
+
+  Pro-Vice-Chancellor (Pro-VC) — assists the VC; delegated authority
+  over academic quality, cross-faculty coordination. See
+  office_pro_vice_chancellor.txt.
+
+  Treasurer — chief financial authority. Chairs the Finance
+  Committee. See office_treasurer.txt.
+
+LEVEL 3 — GOVERNING BODIES
+  Regent Board — highest governing body. Approves budget, ordinances,
+  senior appointments, new faculties/departments. Meets minimum twice
+  yearly.
+
+  Academic Council — highest academic body. Approves curricula,
+  admission policy, examination regulations. Composition: VC (Chair),
+  Pro-VC, all Deans, all Department Chairmen, Controller of
+  Examinations, Chief Librarian, Registrar (Secretary).
+
+  Syndicate/Finance Committee — financial oversight subordinate to
+  Regent Board, chaired by Treasurer.
+
+LEVEL 4 — FACULTY LEADERSHIP
+  Deans — one per Faculty (8 total), appointed by VC from senior
+  professors, typically 2-year rotating terms. See faculty files in
+  Section C.
+
+LEVEL 5 — DEPARTMENT LEADERSHIP
+  Department Chairmen — one per Department (26 total), typically
+  2-year rotating terms among eligible senior faculty. See
+  department files in Section D.
+
+LEVEL 6 — ADMINISTRATIVE OFFICES
+  Registrar, Controller of Examinations, Proctor, Chief Librarian,
+  Director of Accounts, Chief Engineer, Chief Medical Officer, and
+  other office heads — see individual office files in this section.
+  These report administratively to the VC (directly or via the
+  Registrar) and operationally support both governance bodies and
+  day-to-day student/staff services.
+
+================================================================
+DECISION-MAKING FLOW (SIMPLIFIED)
+================================================================
+  New Course/Curriculum Change:
+    Department Academic Committee -> Faculty -> Academic Council ->
+    (if credit/ordinance impact) Regent Board
+
+  Disciplinary Case (serious):
+    Complaint -> Proctor's Office -> Disciplinary Committee ->
+    Vice-Chancellor -> (if expulsion) Regent Board ratification
+
+  Budget Approval:
+    Department/Office request -> Director of Accounts -> Treasurer ->
+    Finance Committee -> Regent Board
+
+  Examination Result Publication:
+    Examination Committee -> Controller of Examinations ->
+    Vice-Chancellor approval -> Publication
+
+================================================================
+END OF FILE
+================================================================

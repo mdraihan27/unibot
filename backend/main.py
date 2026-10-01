@@ -10,13 +10,18 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.config.settings import settings
 from app.database.mongodb import Database
 from app.exceptions.handlers import register_exception_handlers
-from app.routers import auth
+from app.routers import auth, chat
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Manage application lifespan — startup & shutdown."""
     await Database.connect()
+    try:
+        from app.services.chat_service import ChatService
+        await ChatService.ensure_indexes()
+    except Exception:
+        pass
     yield
     await Database.disconnect()
 
@@ -43,6 +48,7 @@ def create_app() -> FastAPI:
 
     # ── Routers ─────────────────────────────────────────────────────────────
     application.include_router(auth.router, prefix="/api/v1/auth", tags=["Auth"])
+    application.include_router(chat.router, prefix="/api/v1/chat", tags=["Chat"])
 
     # ── Exception handlers ───────────────────────────────────────────────────
     register_exception_handlers(application)

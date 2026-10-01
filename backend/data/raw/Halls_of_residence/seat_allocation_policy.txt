@@ -1,0 +1,66 @@
+DOCUMENT TYPE: Hall Procedure Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+================================================================
+ROOM AND SEAT ALLOCATION POLICY
+===============================
+
+1. ROOM TYPES
+   Hall          Single rooms   Double rooms   Triple rooms
+   ------------------------------------------------------------
+   Hall 1 (MRH)      -             50%            50%
+   Hall 2 (LSH)      -             60%            40%
+   Hall 3 (SHH)      10%           70%            20%
+   Hall 4 (BKZH)     10%           70%            20%
+   Hall 5 (JSH)      60%           40%             -
+   Hall 6 (NRH)      20%           80%             -
+   (percentages approximate; exact room counts at the hall
+   office)
+
+2. FIRST-YEAR ASSIGNMENT
+   - First-year students are allotted DOUBLE/TRIPLE rooms,
+     normally with a roommate from a different department
+     within the same faculty to support the residential
+     tutorial programme (Office of Student Counselling,
+     Section A).
+   - Room changes in the first semester are allowed once,
+     with the mutual written consent of both roommates and
+     the Assistant Provost.
+
+3. SINGLE ROOMS
+   - Priority: (1) medical need certified by the Medical
+     Centre, (2) final-year students with CGPA 3.50+,
+     (3) postgraduate students (Hall 5), (4) seniority.
+   - Single rooms carry a higher seat rent (Section I).
+
+4. CHANGE OF ROOM
+   - Mid-year changes only for documented reasons (medical,
+     conflict resolved by counselling) approved by the
+     Provost.
+   - Room swap between two residents requires both to apply
+     together.
+
+5. VACANT BEDS
+   - A bed left vacant for 15+ consecutive days without
+     intimation may be re-allotted; the absent resident's
+     belongings are packed by the office and stored for
+     collection within 30 days.
+   - Semester leave (leave_of_absence.txt, Section E): the
+     seat is NOT held; re-application on return per
+     hall_admission_rules.txt.
+
+6. ROOM INSPECTION
+   - The Provost/Assistant Provosts may inspect rooms with
+     24-hour notice (without notice for suspected safety
+     hazard or reported offence, with a second staff member
+     present).
+
+================================================================
+END OF FILE
+================================================================

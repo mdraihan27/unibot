@@ -1,0 +1,60 @@
+DOCUMENT TYPE: Office Reference
+INSTITUTION: Jashore University of Science and Technology (JUST)
+DATA STATUS: SYNTHETIC / FICTIONAL — Generated for RAG system testing
+             only. All names, emails, phone numbers, and figures in
+             this file are INVENTED and do not represent real
+             individuals or real JUST data. Do not use for any
+             real-world purpose.
+EFFECTIVE DATE: 2026-01-01
+STATUS: Current (test dataset)
+SOURCE ALIGNMENT: https://just.edu.bd/offices/ict-cell
+
+================================================================
+OFFICE OF THE ICT CELL
+================================================================
+
+1. HEAD OF OFFICE
+   Title: Director, ICT Cell
+   Name: Mr. Tariqul Islam (SYNTHETIC)
+   Email: ict@just.edu.bd
+   Phone (Office): +880-421-61250
+   Extension: 106
+   Office Location: Cyber Centre Building, 1st Floor
+   Office Hours: Sunday-Thursday: 9:00 AM - 5:00 PM
+   Reports To: Vice-Chancellor
+
+2. PRIMARY RESPONSIBILITIES
+  - Manages campus network infrastructure and WiFi
+  - Administers the student and staff email system (@just.edu.bd / @student.just.edu.bd)
+  - Maintains the Student Information Portal
+  - Provides technical support for online classes and digital examination tools
+  - Manages University website hosting and technical infrastructure
+
+3. STUDENT/STAFF PROCEDURES ROUTED THROUGH THIS OFFICE
+  - Student email account setup and password reset
+  - Student portal login issues
+  - Campus WiFi access requests
+  - Digital services technical support
+
+4. HOW TO CONTACT
+   In person: Visit during office hours at the location above.
+   Email: Use the email address above for written requests; expect
+          acknowledgement within 2-3 working days.
+   Phone: Use during office hours only; for urgent matters outside
+          office hours, contact the Proctor's Office (24-hour) or
+          relevant emergency office instead.
+
+5. ESCALATION
+   If a request is not resolved through this office within a
+   reasonable timeframe, escalate in writing to the Office of the
+   Registrar, referencing the original request date.
+
+6. ADDITIONAL STAFF
+   - Mr. Nurul Absar — System Administrator
+     Email: sysadmin@just.edu.bd  |  Phone: +880-421-61251
+   - Ms. Rokeya Sultana — Network Engineer
+     Email: network@just.edu.bd  |  Phone: +880-421-61252
+
+================================================================
+END OF FILE
+================================================================
