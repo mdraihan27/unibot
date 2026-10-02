@@ -5,6 +5,10 @@ import logging
 from datetime import datetime, timezone
 from typing import Optional
 
+from google.oauth2 import id_token as google_id_token
+from google.auth.transport import requests as google_requests
+
+from app.config.settings import settings
 from app.database.mongodb import Database
 from app.exceptions.auth import (
     AccountNotVerifiedError,
@@ -14,7 +18,7 @@ from app.exceptions.auth import (
     UserNotFoundError,
 )
 from app.models.user import UserModel
-from app.schemas.auth import LoginRequest, RegisterRequest, TokenData
+from app.schemas.auth import GoogleSignInRequest, LoginRequest, RegisterRequest, TokenData
 from app.services.otp_service import OtpService
 from app.utils.security import JWTHelper, PasswordHelper
 
@@ -165,3 +169,106 @@ class AuthService:
         except Exception as exc:
             logger.warning("get_by_email error for %s: %s", email, exc)
         return None
+
+    # ── Google Sign-In ────────────────────────────────────────────────────────────
+
+    @classmethod
+    async def google_sign_in(cls, payload: GoogleSignInRequest) -> TokenData:
+        """
+        Authenticate (or auto-register) a user via Google ID token.
+
+        Flow:
+          1. Verify the Google ID token signature & audience using google-auth library.
+          2. Extract the Google user info (sub, email, name, picture).
+          3. Look up the user by google_id or email.
+             - If found by email but no google_id set yet: link the Google account.
+             - If not found at all: create a new user (auto-verified, no password).
+          4. Issue JWT access + refresh tokens.
+
+        Raises:
+            InvalidCredentialsError: If the ID token is invalid or expired.
+            DatabaseError: On unexpected MongoDB errors.
+        """
+        # ── 1. Verify Google ID token ──────────────────────────────────────────
+        try:
+            id_info = google_id_token.verify_oauth2_token(
+                payload.id_token,
+                google_requests.Request(),
+                settings.GOOGLE_CLIENT_ID,
+                clock_skew_in_seconds=10,
+            )
+        except Exception as exc:
+            logger.warning("Google Sign-In — token verification failed: %s", exc)
+            raise InvalidCredentialsError() from exc
+
+        google_sub: str = id_info["sub"]          # Unique Google user ID
+        email: str = id_info.get("email", "").lower().strip()
+        name: str = id_info.get("name", "") or ""
+        picture: str = id_info.get("picture", "") or ""
+
+        if not email:
+            logger.warning("Google Sign-In — no email in token for sub=%s", google_sub)
+            raise InvalidCredentialsError()
+
+        db = Database.get_db()
+
+        # ── 2. Look up existing user ──────────────────────────────────────────
+        try:
+            user_doc = await db[cls.COLLECTION].find_one(
+                {"$or": [{"google_id": google_sub}, {"email": email}]}
+            )
+        except Exception as exc:
+            logger.error("Google Sign-In — DB lookup failed: %s", exc)
+            raise DatabaseError() from exc
+
+        now = datetime.now(timezone.utc)
+
+        if user_doc:
+            # ── 3a. Existing user: link Google account if not already linked ──
+            update_fields: dict = {"updated_at": now}
+            if not user_doc.get("google_id"):
+                update_fields["google_id"] = google_sub
+            if picture and not user_doc.get("picture"):
+                update_fields["picture"] = picture
+            # Ensure the account is marked verified (Google email is pre-verified)
+            if not user_doc.get("is_verified"):
+                update_fields["is_verified"] = True
+
+            try:
+                await db[cls.COLLECTION].update_one(
+                    {"_id": user_doc["_id"]}, {"$set": update_fields}
+                )
+            except Exception as exc:
+                logger.warning("Google Sign-In — could not update user %s: %s", email, exc)
+
+            resolved_email: str = user_doc["email"]
+        else:
+            # ── 3b. New user: auto-register with Google info ────────────────
+            new_user = UserModel(
+                name=name,
+                email=email,
+                google_id=google_sub,
+                picture=picture,
+                is_verified=True,   # Google accounts are pre-verified
+                hashed_password=None,
+            )
+            try:
+                result = await db[cls.COLLECTION].insert_one(new_user.to_mongo())
+                if not result.inserted_id:
+                    raise RuntimeError("Insert returned no ID.")
+            except Exception as exc:
+                logger.error("Google Sign-In — DB insert failed: %s", exc)
+                raise DatabaseError() from exc
+
+            logger.info("New user registered via Google: %s (sub=%s)", email, google_sub)
+            resolved_email = email
+
+        # ── 4. Issue JWT tokens ─────────────────────────────────────────────────
+        access_token = JWTHelper.create_access_token(subject=resolved_email)
+        refresh_token = JWTHelper.create_refresh_token(subject=resolved_email)
+
+        logger.info("Google Sign-In successful: %s", resolved_email)
+        return TokenData(
+            access_token=access_token,
+            refresh_token=refresh_token,
+        )

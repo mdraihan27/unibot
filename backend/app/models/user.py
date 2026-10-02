@@ -48,7 +48,9 @@ class UserModel(BaseModel):
 
     # ── Identity ─────────────────────────────────────────────────────────────
     email: EmailStr
-    hashed_password: str
+    hashed_password: Optional[str] = None   # None for Google Sign-In users
+    google_id: Optional[str] = None         # Google user sub (unique per Google account)
+    picture: Optional[str] = None           # Profile picture URL from Google
 
     # ── Verification ─────────────────────────────────────────────────────────
     is_verified: bool = False

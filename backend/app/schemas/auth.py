@@ -108,3 +108,16 @@ class UserPublic(BaseModel):
     faculty: str = ""
     email: str
     is_verified: bool
+
+
+# ── Google Sign-In ─────────────────────────────────────────────────────────────
+
+class GoogleSignInRequest(BaseModel):
+    """
+    Payload sent from the frontend after Google OAuth completes.
+
+    The client exchanges the Google authorization code or ID token
+    using the Google Sign-In SDK and passes the resulting ID token here.
+    The backend verifies it against Google's public keys.
+    """
+    id_token: str

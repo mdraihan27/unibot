@@ -32,6 +32,10 @@ class Settings(BaseSettings):
     OTP_DEFAULT: str = "123456"
     OTP_EXPIRE_MINUTES: int = 10
 
+    # ── Google OAuth ─────────────────────────────────────────────────────────
+    GOOGLE_CLIENT_ID: str = ""
+    GOOGLE_CLIENT_SECRET: str = ""
+
 
 # Singleton — import this throughout the app
 settings = Settings()

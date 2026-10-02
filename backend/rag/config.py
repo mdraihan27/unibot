@@ -13,7 +13,8 @@ COLLECTION_NAME = "university"
 
 # --- Models ---
 EMBED_MODEL = "BAAI/bge-m3"
-RERANK_MODEL = "BAAI/bge-reranker-v2-m3"
+# RERANK_MODEL = "BAAI/bge-reranker-v2-m3"
+RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 LLM_MODEL = "anthropic/claude-sonnet-4"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
