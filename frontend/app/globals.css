@@ -1,0 +1,303 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #880808;
+  --color-foreground: #FFFFFF;
+  --color-error: #A82020;
+  --color-footer-bg: #BBD5DA;
+  --color-brand: #E45043;
+  --color-gradient-start: #E45043;
+  --color-gradient-end: #A82020;
+  --radius-btn: 8px;
+  --radius-card: 6px;
+  --font-montserrat: var(--font-montserrat), sans-serif;
+}
+
+:root {
+  --bg-primary: #E45043;
+  --text-primary: #FFFFFF;
+  --error-color: #A82020;
+  --footer-bg-color: #BBD5DA;
+  --brand-color: #E45043;
+  --grad-1: #E45043;
+  --grad-2: #A82020;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E45043;
+  color: #FFFFFF;
+  font-family: var(--font-montserrat), sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Moving gradient text animation */
+@keyframes movingGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.text-gradient-animated {
+  background: linear-gradient(
+    135deg,
+    #FFFFFF 0%,
+    #FFAFA8 25%,
+    #f5a39c 50%,
+    #ffffff 75%,
+    #FFFFFF 100%
+  );
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: movingGradient 6s ease infinite;
+}
+
+.text-gradient-brand {
+  background: linear-gradient(
+    90deg,
+    #d42a1b 0%,
+    #A82020 50%,
+    #362b2a 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: movingGradient 4s linear infinite;
+}
+
+/* Page loader sweep glow effect */
+@keyframes sweepGlow {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.glow-sweep-text {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(255, 255, 255, 0.95) 50%,
+    rgba(255, 255, 255, 0.2) 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: sweepGlow 2s ease-in-out infinite;
+}
+
+/* Buttons */
+.btn-glow {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #FFFFFF;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-glow:hover {
+  filter: brightness(1.25);
+  background: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+}
+
+.btn-regular {
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid transparent;
+}
+
+.btn-regular:hover {
+  filter: brightness(1.1);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+/* General border radius rule: buttons 8px, everything else 6px */
+.card-radius {
+  border-radius: 6px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* Moving Aurora / Mesh Gradient Background */
+@keyframes auroraMove {
+  0% {
+    transform: translate(0%, 0%) rotate(0deg) scale(1);
+  }
+  33% {
+    transform: translate(4%, -6%) rotate(120deg) scale(1.1);
+  }
+  66% {
+    transform: translate(-5%, 5%) rotate(240deg) scale(0.95);
+  }
+  100% {
+    transform: translate(0%, 0%) rotate(360deg) scale(1);
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.bg-moving-gradient {
+  background: linear-gradient(-45deg, #1c0507, #4a0f12, #8b181b, #a82020, #e45043, #2a0b12);
+  background-size: 400% 400%;
+  animation: gradientShift 18s ease infinite;
+}
+
+.aurora-orb-1 {
+  animation: auroraMove 24s ease-in-out infinite alternate;
+}
+
+.aurora-orb-2 {
+  animation: auroraMove 30s ease-in-out infinite alternate-reverse;
+}
+
+.aurora-orb-3 {
+  animation: auroraMove 20s ease-in-out infinite alternate;
+}
+
+/* Glassmorphism primitives */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.35), inset 0 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+.glass-panel-subtle {
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.glass-input {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 1px rgba(255, 255, 255, 0.15);
+}
+
+.glass-input:focus-within {
+  border-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 0 20px rgba(228, 80, 67, 0.35);
+}
+
+/* Moving border shine with zero outer glow - sweeps side to side and back */
+@keyframes borderShineSweep {
+  0% {
+    background-position: 110% 0;
+  }
+  100% {
+    background-position: -10% 0;
+  }
+}
+
+.border-moving-shine {
+  background: linear-gradient(
+    90deg,
+    rgba(185, 176, 163, 0.6) 0%,
+    rgba(185, 176, 163, 0.6) 30%,
+    rgba(255, 255, 255, 0.95) 43%,
+    #FFFFFF 50%,
+    rgba(255, 255, 255, 0.95) 57%,
+    rgba(185, 176, 163, 0.6) 70%,
+    rgba(185, 176, 163, 0.6) 100%
+  );
+  background-size: 200% 100%;
+  animation: borderShineSweep 2.8s ease-in-out infinite alternate;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.75), 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.border-moving-shine:focus-within {
+  background: linear-gradient(
+    90deg,
+    rgba(224, 62, 45, 0.45) 0%,
+    rgba(224, 62, 45, 0.55) 30%,
+    #FFFFFF 45%,
+    #FFFFFF 55%,
+    rgba(224, 62, 45, 0.55) 70%,
+    rgba(224, 62, 45, 0.45) 100%
+  );
+  background-size: 200% 100%;
+  animation: borderShineSweep 2s ease-in-out infinite alternate;
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.9), 0 4px 18px rgba(224, 62, 45, 0.22);
+}
+
+/* Shimmer animation for thinking indicator */
+@keyframes textShimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.thinking-text-shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.45) 0%,
+    rgba(255, 255, 255, 0.95) 50%,
+    rgba(255, 255, 255, 0.45) 100%
+  );
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: textShimmer 2.2s linear infinite;
+}
+
